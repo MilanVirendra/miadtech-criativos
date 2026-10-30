@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v01.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v01",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32WN",
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v02.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v02",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32WN",
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v03.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v03",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32WN",
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v04.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v04",
+  "products": [
+   "Tiandy TC-C32WN",
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v05.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v05",
+  "products": [
+   "Tiandy TC-C32WN",
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v06.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v06",
+  "products": [
+   "Tiandy TC-C32WN",
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v07.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v07",
+  "products": [
+   "Tiandy TC-C32CN",
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v08.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v08",
+  "products": [
+   "Tiandy TC-C32CN",
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v09.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__tiandy-tc-c32cn__v09",
+  "products": [
+   "Tiandy TC-C32CN",
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__v01.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__v01",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__v02.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__v02",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__v03.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__v03",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__v04.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__v04",
+  "products": [
+   "Tiandy TC-C32WN",
+   "Tiandy TC-C320N 1ANB-28"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__v05.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__v05",
+  "products": [
+   "Tiandy TC-C32WN",
+   "Tiandy TC-C320N 1ANB-28"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__v06.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32wn__v06",
+  "products": [
+   "Tiandy TC-C32WN",
+   "Tiandy TC-C320N 1ANB-28"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32WN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "5.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32cn__v01.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32cn__v01",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32cn__v02.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32cn__v02",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32cn__v03.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32cn__v03",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28",
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32cn__v04.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32cn__v04",
+  "products": [
+   "Tiandy TC-C32CN",
+   "Tiandy TC-C320N 1ANB-28"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32cn__v05.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32cn__v05",
+  "products": [
+   "Tiandy TC-C32CN",
+   "Tiandy TC-C320N 1ANB-28"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__tiandy-tc-c32cn__v06.png",
+  "name": "tiandy-tc-c320n-1anb-28__tiandy-tc-c32cn__v06",
+  "products": [
+   "Tiandy TC-C32CN",
+   "Tiandy TC-C320N 1ANB-28"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "2.850 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c32wn__tiandy-tc-c32cn__v01.png",
+  "name": "tiandy-tc-c32wn__tiandy-tc-c32cn__v01",
+  "products": [
+   "Tiandy TC-C32WN",
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c32wn__tiandy-tc-c32cn__v02.png",
+  "name": "tiandy-tc-c32wn__tiandy-tc-c32cn__v02",
+  "products": [
+   "Tiandy TC-C32WN",
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c32wn__tiandy-tc-c32cn__v03.png",
+  "name": "tiandy-tc-c32wn__tiandy-tc-c32cn__v03",
+  "products": [
+   "Tiandy TC-C32WN",
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c32wn__tiandy-tc-c32cn__v04.png",
+  "name": "tiandy-tc-c32wn__tiandy-tc-c32cn__v04",
+  "products": [
+   "Tiandy TC-C32CN",
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c32wn__tiandy-tc-c32cn__v05.png",
+  "name": "tiandy-tc-c32wn__tiandy-tc-c32cn__v05",
+  "products": [
+   "Tiandy TC-C32CN",
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c32wn__tiandy-tc-c32cn__v06.png",
+  "name": "tiandy-tc-c32wn__tiandy-tc-c32cn__v06",
+  "products": [
+   "Tiandy TC-C32CN",
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32WN",
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera",
+   "Bullet Camera"
+  ],
+  "prices": [
+   "5.250 Mts",
+   "4.850 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__v01.png",
+  "name": "tiandy-tc-c320n-1anb-28__v01",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera"
+  ],
+  "prices": [
+   "2.850 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__v02.png",
+  "name": "tiandy-tc-c320n-1anb-28__v02",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera"
+  ],
+  "prices": [
+   "2.850 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__v03.png",
+  "name": "tiandy-tc-c320n-1anb-28__v03",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera"
+  ],
+  "prices": [
+   "2.850 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__v04.png",
+  "name": "tiandy-tc-c320n-1anb-28__v04",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera"
+  ],
+  "prices": [
+   "2.850 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__v05.png",
+  "name": "tiandy-tc-c320n-1anb-28__v05",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera"
+  ],
+  "prices": [
+   "2.850 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c320n-1anb-28__v06.png",
+  "name": "tiandy-tc-c320n-1anb-28__v06",
+  "products": [
+   "Tiandy TC-C320N 1ANB-28"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C320N 1ANB-28"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Dome Camera"
+  ],
+  "prices": [
+   "2.850 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c32wn__v01.png",
+  "name": "tiandy-tc-c32wn__v01",
+  "products": [
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32WN"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera"
+  ],
+  "prices": [
+   "5.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c32wn__v02.png",
+  "name": "tiandy-tc-c32wn__v02",
+  "products": [
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32WN"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera"
+  ],
+  "prices": [
+   "5.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c32wn__v03.png",
+  "name": "tiandy-tc-c32wn__v03",
+  "products": [
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32WN"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera"
+  ],
+  "prices": [
+   "5.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c32wn__v04.png",
+  "name": "tiandy-tc-c32wn__v04",
+  "products": [
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32WN"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera"
+  ],
+  "prices": [
+   "5.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c32wn__v05.png",
+  "name": "tiandy-tc-c32wn__v05",
+  "products": [
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32WN"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera"
+  ],
+  "prices": [
+   "5.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c32wn__v06.png",
+  "name": "tiandy-tc-c32wn__v06",
+  "products": [
+   "Tiandy TC-C32WN"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32WN"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera"
+  ],
+  "prices": [
+   "5.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c32cn__v01.png",
+  "name": "tiandy-tc-c32cn__v01",
+  "products": [
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera"
+  ],
+  "prices": [
+   "4.850 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c32cn__v02.png",
+  "name": "tiandy-tc-c32cn__v02",
+  "products": [
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera"
+  ],
+  "prices": [
+   "4.850 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c32cn__v03.png",
+  "name": "tiandy-tc-c32cn__v03",
+  "products": [
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera"
+  ],
+  "prices": [
+   "4.850 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c32cn__v04.png",
+  "name": "tiandy-tc-c32cn__v04",
+  "products": [
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera"
+  ],
+  "prices": [
+   "4.850 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c32cn__v05.png",
+  "name": "tiandy-tc-c32cn__v05",
+  "products": [
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera"
+  ],
+  "prices": [
+   "4.850 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-c32cn__v06.png",
+  "name": "tiandy-tc-c32cn__v06",
+  "products": [
+   "Tiandy TC-C32CN"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-C32CN"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Bullet Camera"
+  ],
+  "prices": [
+   "4.850 Mts"
+  ],
+  "group_size": 1
+ }
+]
