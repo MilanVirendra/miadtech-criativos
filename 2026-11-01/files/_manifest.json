@@ -1,0 +1,608 @@
+[
+ {
+  "file": "files/tiandy-tc-h363n__tiandy-tc-h333k-9da-4__v01.png",
+  "name": "tiandy-tc-h363n__tiandy-tc-h333k-9da-4__v01",
+  "products": [
+   "Tiandy TC-H363N",
+   "Tiandy TC-H333K 9DA-4"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H363N",
+   "TC-H333K 9DA-4"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Camera Dual",
+   "4G Camera"
+  ],
+  "prices": [
+   "6.550 Mts",
+   "10.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-h363n__tiandy-tc-h333k-9da-4__v02.png",
+  "name": "tiandy-tc-h363n__tiandy-tc-h333k-9da-4__v02",
+  "products": [
+   "Tiandy TC-H363N",
+   "Tiandy TC-H333K 9DA-4"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H363N",
+   "TC-H333K 9DA-4"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Camera Dual",
+   "4G Camera"
+  ],
+  "prices": [
+   "6.550 Mts",
+   "10.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-h363n__tiandy-tc-h333k-9da-4__v03.png",
+  "name": "tiandy-tc-h363n__tiandy-tc-h333k-9da-4__v03",
+  "products": [
+   "Tiandy TC-H363N",
+   "Tiandy TC-H333K 9DA-4"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H363N",
+   "TC-H333K 9DA-4"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Camera Dual",
+   "4G Camera"
+  ],
+  "prices": [
+   "6.550 Mts",
+   "10.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-h363n__tiandy-tc-h333k-9da-4__v04.png",
+  "name": "tiandy-tc-h363n__tiandy-tc-h333k-9da-4__v04",
+  "products": [
+   "Tiandy TC-H333K 9DA-4",
+   "Tiandy TC-H363N"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H363N",
+   "TC-H333K 9DA-4"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Camera Dual",
+   "4G Camera"
+  ],
+  "prices": [
+   "6.550 Mts",
+   "10.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-h363n__tiandy-tc-h333k-9da-4__v05.png",
+  "name": "tiandy-tc-h363n__tiandy-tc-h333k-9da-4__v05",
+  "products": [
+   "Tiandy TC-H333K 9DA-4",
+   "Tiandy TC-H363N"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H363N",
+   "TC-H333K 9DA-4"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Camera Dual",
+   "4G Camera"
+  ],
+  "prices": [
+   "6.550 Mts",
+   "10.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-h363n__tiandy-tc-h333k-9da-4__v06.png",
+  "name": "tiandy-tc-h363n__tiandy-tc-h333k-9da-4__v06",
+  "products": [
+   "Tiandy TC-H333K 9DA-4",
+   "Tiandy TC-H363N"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H363N",
+   "TC-H333K 9DA-4"
+  ],
+  "brands": [
+   "Tiandy",
+   "Tiandy"
+  ],
+  "types": [
+   "Camera Dual",
+   "4G Camera"
+  ],
+  "prices": [
+   "6.550 Mts",
+   "10.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/tiandy-tc-h363n__v01.png",
+  "name": "tiandy-tc-h363n__v01",
+  "products": [
+   "Tiandy TC-H363N"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H363N"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Camera Dual"
+  ],
+  "prices": [
+   "6.550 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-h363n__v02.png",
+  "name": "tiandy-tc-h363n__v02",
+  "products": [
+   "Tiandy TC-H363N"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H363N"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Camera Dual"
+  ],
+  "prices": [
+   "6.550 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-h363n__v03.png",
+  "name": "tiandy-tc-h363n__v03",
+  "products": [
+   "Tiandy TC-H363N"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H363N"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Camera Dual"
+  ],
+  "prices": [
+   "6.550 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-h363n__v04.png",
+  "name": "tiandy-tc-h363n__v04",
+  "products": [
+   "Tiandy TC-H363N"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H363N"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Camera Dual"
+  ],
+  "prices": [
+   "6.550 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-h363n__v05.png",
+  "name": "tiandy-tc-h363n__v05",
+  "products": [
+   "Tiandy TC-H363N"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H363N"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Camera Dual"
+  ],
+  "prices": [
+   "6.550 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-h363n__v06.png",
+  "name": "tiandy-tc-h363n__v06",
+  "products": [
+   "Tiandy TC-H363N"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H363N"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "Camera Dual"
+  ],
+  "prices": [
+   "6.550 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-h333k-9da-4__v01.png",
+  "name": "tiandy-tc-h333k-9da-4__v01",
+  "products": [
+   "Tiandy TC-H333K 9DA-4"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H333K 9DA-4"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "4G Camera"
+  ],
+  "prices": [
+   "10.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-h333k-9da-4__v02.png",
+  "name": "tiandy-tc-h333k-9da-4__v02",
+  "products": [
+   "Tiandy TC-H333K 9DA-4"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H333K 9DA-4"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "4G Camera"
+  ],
+  "prices": [
+   "10.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-h333k-9da-4__v03.png",
+  "name": "tiandy-tc-h333k-9da-4__v03",
+  "products": [
+   "Tiandy TC-H333K 9DA-4"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H333K 9DA-4"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "4G Camera"
+  ],
+  "prices": [
+   "10.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-h333k-9da-4__v04.png",
+  "name": "tiandy-tc-h333k-9da-4__v04",
+  "products": [
+   "Tiandy TC-H333K 9DA-4"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H333K 9DA-4"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "4G Camera"
+  ],
+  "prices": [
+   "10.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-h333k-9da-4__v05.png",
+  "name": "tiandy-tc-h333k-9da-4__v05",
+  "products": [
+   "Tiandy TC-H333K 9DA-4"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H333K 9DA-4"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "4G Camera"
+  ],
+  "prices": [
+   "10.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/tiandy-tc-h333k-9da-4__v06.png",
+  "name": "tiandy-tc-h333k-9da-4__v06",
+  "products": [
+   "Tiandy TC-H333K 9DA-4"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "TC-H333K 9DA-4"
+  ],
+  "brands": [
+   "Tiandy"
+  ],
+  "types": [
+   "4G Camera"
+  ],
+  "prices": [
+   "10.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-note-edge-256-4__v01.png",
+  "name": "infinix-note-edge-256-4__v01",
+  "products": [
+   "Infinix NOTE EDGE 256/4"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE EDGE 256/4"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "33.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-note-edge-256-4__v02.png",
+  "name": "infinix-note-edge-256-4__v02",
+  "products": [
+   "Infinix NOTE EDGE 256/4"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE EDGE 256/4"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "33.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-note-edge-256-4__v03.png",
+  "name": "infinix-note-edge-256-4__v03",
+  "products": [
+   "Infinix NOTE EDGE 256/4"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE EDGE 256/4"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "33.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-note-edge-256-4__v04.png",
+  "name": "infinix-note-edge-256-4__v04",
+  "products": [
+   "Infinix NOTE EDGE 256/4"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE EDGE 256/4"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "33.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-note-edge-256-4__v05.png",
+  "name": "infinix-note-edge-256-4__v05",
+  "products": [
+   "Infinix NOTE EDGE 256/4"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE EDGE 256/4"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "33.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-note-edge-256-4__v06.png",
+  "name": "infinix-note-edge-256-4__v06",
+  "products": [
+   "Infinix NOTE EDGE 256/4"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE EDGE 256/4"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "33.500 Mts"
+  ],
+  "group_size": 1
+ }
+]
