@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v01.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v01",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision NK44W0H-1T(WD)",
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v02.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v02",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision NK44W0H-1T(WD)",
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v03.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v03",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision NK44W0H-1T(WD)",
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v04.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v04",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)",
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v05.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v05",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)",
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v06.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v06",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)",
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v07.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v07",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW",
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v08.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v08",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW",
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v09.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v09",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW",
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__v01.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__v01",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__v02.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__v02",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__v03.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__v03",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__v04.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__v04",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)",
+   "Hikvision DS-2CV2141G2-IDW"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__v05.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__v05",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)",
+   "Hikvision DS-2CV2141G2-IDW"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__v06.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-nk44w0h-1t-wd__v06",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)",
+   "Hikvision DS-2CV2141G2-IDW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "NK44W0H-1T(WD)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "27.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-ds-2cv2027g0-ldw__v01.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-ds-2cv2027g0-ldw__v01",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-ds-2cv2027g0-ldw__v02.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-ds-2cv2027g0-ldw__v02",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-ds-2cv2027g0-ldw__v03.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-ds-2cv2027g0-ldw__v03",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW",
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-ds-2cv2027g0-ldw__v04.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-ds-2cv2027g0-ldw__v04",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW",
+   "Hikvision DS-2CV2141G2-IDW"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-ds-2cv2027g0-ldw__v05.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-ds-2cv2027g0-ldw__v05",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW",
+   "Hikvision DS-2CV2141G2-IDW"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__hikvision-ds-2cv2027g0-ldw__v06.png",
+  "name": "hikvision-ds-2cv2141g2-idw__hikvision-ds-2cv2027g0-ldw__v06",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW",
+   "Hikvision DS-2CV2141G2-IDW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v01.png",
+  "name": "hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v01",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)",
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v02.png",
+  "name": "hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v02",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)",
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v03.png",
+  "name": "hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v03",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)",
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v04.png",
+  "name": "hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v04",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW",
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v05.png",
+  "name": "hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v05",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW",
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v06.png",
+  "name": "hikvision-nk44w0h-1t-wd__hikvision-ds-2cv2027g0-ldw__v06",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW",
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NK44W0H-1T(WD)",
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "27.500 Mts",
+   "8.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__v01.png",
+  "name": "hikvision-ds-2cv2141g2-idw__v01",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__v02.png",
+  "name": "hikvision-ds-2cv2141g2-idw__v02",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__v03.png",
+  "name": "hikvision-ds-2cv2141g2-idw__v03",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__v04.png",
+  "name": "hikvision-ds-2cv2141g2-idw__v04",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__v05.png",
+  "name": "hikvision-ds-2cv2141g2-idw__v05",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv2141g2-idw__v06.png",
+  "name": "hikvision-ds-2cv2141g2-idw__v06",
+  "products": [
+   "Hikvision DS-2CV2141G2-IDW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2141G2-IDW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.650 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-nk44w0h-1t-wd__v01.png",
+  "name": "hikvision-nk44w0h-1t-wd__v01",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NK44W0H-1T(WD)"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "27.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-nk44w0h-1t-wd__v02.png",
+  "name": "hikvision-nk44w0h-1t-wd__v02",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NK44W0H-1T(WD)"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "27.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-nk44w0h-1t-wd__v03.png",
+  "name": "hikvision-nk44w0h-1t-wd__v03",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NK44W0H-1T(WD)"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "27.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-nk44w0h-1t-wd__v04.png",
+  "name": "hikvision-nk44w0h-1t-wd__v04",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NK44W0H-1T(WD)"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "27.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-nk44w0h-1t-wd__v05.png",
+  "name": "hikvision-nk44w0h-1t-wd__v05",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NK44W0H-1T(WD)"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "27.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-nk44w0h-1t-wd__v06.png",
+  "name": "hikvision-nk44w0h-1t-wd__v06",
+  "products": [
+   "Hikvision NK44W0H-1T(WD)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NK44W0H-1T(WD)"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "27.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv2027g0-ldw__v01.png",
+  "name": "hikvision-ds-2cv2027g0-ldw__v01",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "8.700 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv2027g0-ldw__v02.png",
+  "name": "hikvision-ds-2cv2027g0-ldw__v02",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "8.700 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv2027g0-ldw__v03.png",
+  "name": "hikvision-ds-2cv2027g0-ldw__v03",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "8.700 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv2027g0-ldw__v04.png",
+  "name": "hikvision-ds-2cv2027g0-ldw__v04",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "8.700 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv2027g0-ldw__v05.png",
+  "name": "hikvision-ds-2cv2027g0-ldw__v05",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "8.700 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv2027g0-ldw__v06.png",
+  "name": "hikvision-ds-2cv2027g0-ldw__v06",
+  "products": [
+   "Hikvision DS-2CV2027G0-LDW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV2027G0-LDW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "8.700 Mts"
+  ],
+  "group_size": 1
+ }
+]
