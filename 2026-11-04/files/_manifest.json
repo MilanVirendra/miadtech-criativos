@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v01.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v01",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW",
+   "Hikvision DS-2CV1043G2-LIDWF",
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v02.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v02",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW",
+   "Hikvision DS-2CV1043G2-LIDWF",
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v03.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v03",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW",
+   "Hikvision DS-2CV1043G2-LIDWF",
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v04.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v04",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF",
+   "Hikvision DS-2CD2455FWD-IW",
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v05.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v05",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF",
+   "Hikvision DS-2CD2455FWD-IW",
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v06.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v06",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF",
+   "Hikvision DS-2CD2455FWD-IW",
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v07.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v07",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)",
+   "Hikvision DS-2CD2455FWD-IW",
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v08.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v08",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)",
+   "Hikvision DS-2CD2455FWD-IW",
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v09.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v09",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)",
+   "Hikvision DS-2CD2455FWD-IW",
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__v01.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__v01",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW",
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__v02.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__v02",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW",
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__v03.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__v03",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW",
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__v04.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__v04",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF",
+   "Hikvision DS-2CD2455FWD-IW"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__v05.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__v05",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF",
+   "Hikvision DS-2CD2455FWD-IW"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__v06.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__hikvision-ds-2cv1043g2-lidwf__v06",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF",
+   "Hikvision DS-2CD2455FWD-IW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "DS-2CV1043G2-LIDWF"
+  ],
+  "brands": [
+   "Hikvision",
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.600 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__ezviz-cs-h3c-1080p-2-8mm-color__v01.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__ezviz-cs-h3c-1080p-2-8mm-color__v01",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW",
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__ezviz-cs-h3c-1080p-2-8mm-color__v02.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__ezviz-cs-h3c-1080p-2-8mm-color__v02",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW",
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__ezviz-cs-h3c-1080p-2-8mm-color__v03.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__ezviz-cs-h3c-1080p-2-8mm-color__v03",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW",
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__ezviz-cs-h3c-1080p-2-8mm-color__v04.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__ezviz-cs-h3c-1080p-2-8mm-color__v04",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)",
+   "Hikvision DS-2CD2455FWD-IW"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__ezviz-cs-h3c-1080p-2-8mm-color__v05.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__ezviz-cs-h3c-1080p-2-8mm-color__v05",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)",
+   "Hikvision DS-2CD2455FWD-IW"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__ezviz-cs-h3c-1080p-2-8mm-color__v06.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__ezviz-cs-h3c-1080p-2-8mm-color__v06",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)",
+   "Hikvision DS-2CD2455FWD-IW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v01.png",
+  "name": "hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v01",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF",
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v02.png",
+  "name": "hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v02",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF",
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v03.png",
+  "name": "hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v03",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF",
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v04.png",
+  "name": "hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v04",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)",
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v05.png",
+  "name": "hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v05",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)",
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v06.png",
+  "name": "hikvision-ds-2cv1043g2-lidwf__ezviz-cs-h3c-1080p-2-8mm-color__v06",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)",
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV1043G2-LIDWF",
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "Hikvision",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.600 Mts",
+   "4.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__v01.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__v01",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__v02.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__v02",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__v03.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__v03",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__v04.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__v04",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__v05.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__v05",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cd2455fwd-iw__v06.png",
+  "name": "hikvision-ds-2cd2455fwd-iw__v06",
+  "products": [
+   "Hikvision DS-2CD2455FWD-IW"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CD2455FWD-IW"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.745 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv1043g2-lidwf__v01.png",
+  "name": "hikvision-ds-2cv1043g2-lidwf__v01",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV1043G2-LIDWF"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.600 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv1043g2-lidwf__v02.png",
+  "name": "hikvision-ds-2cv1043g2-lidwf__v02",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV1043G2-LIDWF"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.600 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv1043g2-lidwf__v03.png",
+  "name": "hikvision-ds-2cv1043g2-lidwf__v03",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV1043G2-LIDWF"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.600 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv1043g2-lidwf__v04.png",
+  "name": "hikvision-ds-2cv1043g2-lidwf__v04",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV1043G2-LIDWF"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.600 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv1043g2-lidwf__v05.png",
+  "name": "hikvision-ds-2cv1043g2-lidwf__v05",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV1043G2-LIDWF"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.600 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hikvision-ds-2cv1043g2-lidwf__v06.png",
+  "name": "hikvision-ds-2cv1043g2-lidwf__v06",
+  "products": [
+   "Hikvision DS-2CV1043G2-LIDWF"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DS-2CV1043G2-LIDWF"
+  ],
+  "brands": [
+   "Hikvision"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.600 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h3c-1080p-2-8mm-color__v01.png",
+  "name": "ezviz-cs-h3c-1080p-2-8mm-color__v01",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h3c-1080p-2-8mm-color__v02.png",
+  "name": "ezviz-cs-h3c-1080p-2-8mm-color__v02",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h3c-1080p-2-8mm-color__v03.png",
+  "name": "ezviz-cs-h3c-1080p-2-8mm-color__v03",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h3c-1080p-2-8mm-color__v04.png",
+  "name": "ezviz-cs-h3c-1080p-2-8mm-color__v04",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h3c-1080p-2-8mm-color__v05.png",
+  "name": "ezviz-cs-h3c-1080p-2-8mm-color__v05",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h3c-1080p-2-8mm-color__v06.png",
+  "name": "ezviz-cs-h3c-1080p-2-8mm-color__v06",
+  "products": [
+   "EZVIZ CS-H3c (1080P,2.8mm,color)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (1080P,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.250 Mts"
+  ],
+  "group_size": 1
+ }
+]
