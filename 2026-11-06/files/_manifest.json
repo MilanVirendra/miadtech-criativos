@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v01.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v01",
+  "products": [
+   "EZVIZ CB1",
+   "EZVIZ CS-H3c (5MP,2.8mm,color)",
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v02.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v02",
+  "products": [
+   "EZVIZ CB1",
+   "EZVIZ CS-H3c (5MP,2.8mm,color)",
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v03.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v03",
+  "products": [
+   "EZVIZ CB1",
+   "EZVIZ CS-H3c (5MP,2.8mm,color)",
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v04.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v04",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)",
+   "EZVIZ CB1",
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v05.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v05",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)",
+   "EZVIZ CB1",
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v06.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v06",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)",
+   "EZVIZ CB1",
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v07.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v07",
+  "products": [
+   "EZVIZ CS-H4 wi-fi",
+   "EZVIZ CB1",
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v08.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v08",
+  "products": [
+   "EZVIZ CS-H4 wi-fi",
+   "EZVIZ CB1",
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v09.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v09",
+  "products": [
+   "EZVIZ CS-H4 wi-fi",
+   "EZVIZ CB1",
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__v01.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__v01",
+  "products": [
+   "EZVIZ CB1",
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__v02.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__v02",
+  "products": [
+   "EZVIZ CB1",
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__v03.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__v03",
+  "products": [
+   "EZVIZ CB1",
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__v04.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__v04",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)",
+   "EZVIZ CB1"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__v05.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__v05",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)",
+   "EZVIZ CB1"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__v06.png",
+  "name": "ezviz-cb1__ezviz-cs-h3c-5mp-2-8mm-color__v06",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)",
+   "EZVIZ CB1"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H3c (5MP,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.700 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h4-wi-fi__v01.png",
+  "name": "ezviz-cb1__ezviz-cs-h4-wi-fi__v01",
+  "products": [
+   "EZVIZ CB1",
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h4-wi-fi__v02.png",
+  "name": "ezviz-cb1__ezviz-cs-h4-wi-fi__v02",
+  "products": [
+   "EZVIZ CB1",
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h4-wi-fi__v03.png",
+  "name": "ezviz-cb1__ezviz-cs-h4-wi-fi__v03",
+  "products": [
+   "EZVIZ CB1",
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h4-wi-fi__v04.png",
+  "name": "ezviz-cb1__ezviz-cs-h4-wi-fi__v04",
+  "products": [
+   "EZVIZ CS-H4 wi-fi",
+   "EZVIZ CB1"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h4-wi-fi__v05.png",
+  "name": "ezviz-cb1__ezviz-cs-h4-wi-fi__v05",
+  "products": [
+   "EZVIZ CS-H4 wi-fi",
+   "EZVIZ CB1"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb1__ezviz-cs-h4-wi-fi__v06.png",
+  "name": "ezviz-cb1__ezviz-cs-h4-wi-fi__v06",
+  "products": [
+   "EZVIZ CS-H4 wi-fi",
+   "EZVIZ CB1"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v01.png",
+  "name": "ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v01",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)",
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v02.png",
+  "name": "ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v02",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)",
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v03.png",
+  "name": "ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v03",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)",
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v04.png",
+  "name": "ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v04",
+  "products": [
+   "EZVIZ CS-H4 wi-fi",
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v05.png",
+  "name": "ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v05",
+  "products": [
+   "EZVIZ CS-H4 wi-fi",
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v06.png",
+  "name": "ezviz-cs-h3c-5mp-2-8mm-color__ezviz-cs-h4-wi-fi__v06",
+  "products": [
+   "EZVIZ CS-H4 wi-fi",
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (5MP,2.8mm,color)",
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.700 Mts",
+   "4.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb1__v01.png",
+  "name": "ezviz-cb1__v01",
+  "products": [
+   "EZVIZ CB1"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cb1__v02.png",
+  "name": "ezviz-cb1__v02",
+  "products": [
+   "EZVIZ CB1"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cb1__v03.png",
+  "name": "ezviz-cb1__v03",
+  "products": [
+   "EZVIZ CB1"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cb1__v04.png",
+  "name": "ezviz-cb1__v04",
+  "products": [
+   "EZVIZ CB1"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cb1__v05.png",
+  "name": "ezviz-cb1__v05",
+  "products": [
+   "EZVIZ CB1"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cb1__v06.png",
+  "name": "ezviz-cb1__v06",
+  "products": [
+   "EZVIZ CB1"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB1"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h3c-5mp-2-8mm-color__v01.png",
+  "name": "ezviz-cs-h3c-5mp-2-8mm-color__v01",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (5MP,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.700 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h3c-5mp-2-8mm-color__v02.png",
+  "name": "ezviz-cs-h3c-5mp-2-8mm-color__v02",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (5MP,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.700 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h3c-5mp-2-8mm-color__v03.png",
+  "name": "ezviz-cs-h3c-5mp-2-8mm-color__v03",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (5MP,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.700 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h3c-5mp-2-8mm-color__v04.png",
+  "name": "ezviz-cs-h3c-5mp-2-8mm-color__v04",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (5MP,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.700 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h3c-5mp-2-8mm-color__v05.png",
+  "name": "ezviz-cs-h3c-5mp-2-8mm-color__v05",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (5MP,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.700 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h3c-5mp-2-8mm-color__v06.png",
+  "name": "ezviz-cs-h3c-5mp-2-8mm-color__v06",
+  "products": [
+   "EZVIZ CS-H3c (5MP,2.8mm,color)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H3c (5MP,2.8mm,color)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.700 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h4-wi-fi__v01.png",
+  "name": "ezviz-cs-h4-wi-fi__v01",
+  "products": [
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h4-wi-fi__v02.png",
+  "name": "ezviz-cs-h4-wi-fi__v02",
+  "products": [
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h4-wi-fi__v03.png",
+  "name": "ezviz-cs-h4-wi-fi__v03",
+  "products": [
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h4-wi-fi__v04.png",
+  "name": "ezviz-cs-h4-wi-fi__v04",
+  "products": [
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h4-wi-fi__v05.png",
+  "name": "ezviz-cs-h4-wi-fi__v05",
+  "products": [
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h4-wi-fi__v06.png",
+  "name": "ezviz-cs-h4-wi-fi__v06",
+  "products": [
+   "EZVIZ CS-H4 wi-fi"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H4 wi-fi"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.500 Mts"
+  ],
+  "group_size": 1
+ }
+]
