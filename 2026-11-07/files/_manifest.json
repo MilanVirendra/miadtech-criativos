@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v01.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v01",
+  "products": [
+   "EZVIZ EB5",
+   "EZVIZ CS-EB3/SP (3MP)",
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v02.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v02",
+  "products": [
+   "EZVIZ EB5",
+   "EZVIZ CS-EB3/SP (3MP)",
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v03.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v03",
+  "products": [
+   "EZVIZ EB5",
+   "EZVIZ CS-EB3/SP (3MP)",
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v04.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v04",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)",
+   "EZVIZ EB5",
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v05.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v05",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)",
+   "EZVIZ EB5",
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v06.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v06",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)",
+   "EZVIZ EB5",
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v07.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v07",
+  "products": [
+   "EZVIZ CS-HB90/SP",
+   "EZVIZ EB5",
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v08.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v08",
+  "products": [
+   "EZVIZ CS-HB90/SP",
+   "EZVIZ EB5",
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v09.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v09",
+  "products": [
+   "EZVIZ CS-HB90/SP",
+   "EZVIZ EB5",
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__v01.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__v01",
+  "products": [
+   "EZVIZ EB5",
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__v02.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__v02",
+  "products": [
+   "EZVIZ EB5",
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__v03.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__v03",
+  "products": [
+   "EZVIZ EB5",
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__v04.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__v04",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)",
+   "EZVIZ EB5"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__v05.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__v05",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)",
+   "EZVIZ EB5"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-eb3-sp-3mp__v06.png",
+  "name": "ezviz-eb5__ezviz-cs-eb3-sp-3mp__v06",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)",
+   "EZVIZ EB5"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-EB3/SP (3MP)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "7.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-hb90-sp__v01.png",
+  "name": "ezviz-eb5__ezviz-cs-hb90-sp__v01",
+  "products": [
+   "EZVIZ EB5",
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-hb90-sp__v02.png",
+  "name": "ezviz-eb5__ezviz-cs-hb90-sp__v02",
+  "products": [
+   "EZVIZ EB5",
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-hb90-sp__v03.png",
+  "name": "ezviz-eb5__ezviz-cs-hb90-sp__v03",
+  "products": [
+   "EZVIZ EB5",
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-hb90-sp__v04.png",
+  "name": "ezviz-eb5__ezviz-cs-hb90-sp__v04",
+  "products": [
+   "EZVIZ CS-HB90/SP",
+   "EZVIZ EB5"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-hb90-sp__v05.png",
+  "name": "ezviz-eb5__ezviz-cs-hb90-sp__v05",
+  "products": [
+   "EZVIZ CS-HB90/SP",
+   "EZVIZ EB5"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-eb5__ezviz-cs-hb90-sp__v06.png",
+  "name": "ezviz-eb5__ezviz-cs-hb90-sp__v06",
+  "products": [
+   "EZVIZ CS-HB90/SP",
+   "EZVIZ EB5"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v01.png",
+  "name": "ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v01",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)",
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v02.png",
+  "name": "ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v02",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)",
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v03.png",
+  "name": "ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v03",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)",
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v04.png",
+  "name": "ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v04",
+  "products": [
+   "EZVIZ CS-HB90/SP",
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v05.png",
+  "name": "ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v05",
+  "products": [
+   "EZVIZ CS-HB90/SP",
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v06.png",
+  "name": "ezviz-cs-eb3-sp-3mp__ezviz-cs-hb90-sp__v06",
+  "products": [
+   "EZVIZ CS-HB90/SP",
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-EB3/SP (3MP)",
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "7.750 Mts",
+   "13.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-eb5__v01.png",
+  "name": "ezviz-eb5__v01",
+  "products": [
+   "EZVIZ EB5"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-eb5__v02.png",
+  "name": "ezviz-eb5__v02",
+  "products": [
+   "EZVIZ EB5"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-eb5__v03.png",
+  "name": "ezviz-eb5__v03",
+  "products": [
+   "EZVIZ EB5"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-eb5__v04.png",
+  "name": "ezviz-eb5__v04",
+  "products": [
+   "EZVIZ EB5"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-eb5__v05.png",
+  "name": "ezviz-eb5__v05",
+  "products": [
+   "EZVIZ EB5"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-eb5__v06.png",
+  "name": "ezviz-eb5__v06",
+  "products": [
+   "EZVIZ EB5"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "EB5"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "10.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-eb3-sp-3mp__v01.png",
+  "name": "ezviz-cs-eb3-sp-3mp__v01",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-EB3/SP (3MP)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "7.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-eb3-sp-3mp__v02.png",
+  "name": "ezviz-cs-eb3-sp-3mp__v02",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-EB3/SP (3MP)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "7.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-eb3-sp-3mp__v03.png",
+  "name": "ezviz-cs-eb3-sp-3mp__v03",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-EB3/SP (3MP)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "7.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-eb3-sp-3mp__v04.png",
+  "name": "ezviz-cs-eb3-sp-3mp__v04",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-EB3/SP (3MP)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "7.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-eb3-sp-3mp__v05.png",
+  "name": "ezviz-cs-eb3-sp-3mp__v05",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-EB3/SP (3MP)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "7.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-eb3-sp-3mp__v06.png",
+  "name": "ezviz-cs-eb3-sp-3mp__v06",
+  "products": [
+   "EZVIZ CS-EB3/SP (3MP)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-EB3/SP (3MP)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "7.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb90-sp__v01.png",
+  "name": "ezviz-cs-hb90-sp__v01",
+  "products": [
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "13.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb90-sp__v02.png",
+  "name": "ezviz-cs-hb90-sp__v02",
+  "products": [
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "13.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb90-sp__v03.png",
+  "name": "ezviz-cs-hb90-sp__v03",
+  "products": [
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "13.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb90-sp__v04.png",
+  "name": "ezviz-cs-hb90-sp__v04",
+  "products": [
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "13.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb90-sp__v05.png",
+  "name": "ezviz-cs-hb90-sp__v05",
+  "products": [
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "13.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb90-sp__v06.png",
+  "name": "ezviz-cs-hb90-sp__v06",
+  "products": [
+   "EZVIZ CS-HB90/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "13.750 Mts"
+  ],
+  "group_size": 1
+ }
+]
