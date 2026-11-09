@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__ezviz-hb8c__v01.png",
+  "name": "ezviz-cb2__ezviz-h1c__ezviz-hb8c__v01",
+  "products": [
+   "EZVIZ CB2",
+   "EZVIZ H1C",
+   "EZVIZ HB8c"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__ezviz-hb8c__v02.png",
+  "name": "ezviz-cb2__ezviz-h1c__ezviz-hb8c__v02",
+  "products": [
+   "EZVIZ CB2",
+   "EZVIZ H1C",
+   "EZVIZ HB8c"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__ezviz-hb8c__v03.png",
+  "name": "ezviz-cb2__ezviz-h1c__ezviz-hb8c__v03",
+  "products": [
+   "EZVIZ CB2",
+   "EZVIZ H1C",
+   "EZVIZ HB8c"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__ezviz-hb8c__v04.png",
+  "name": "ezviz-cb2__ezviz-h1c__ezviz-hb8c__v04",
+  "products": [
+   "EZVIZ H1C",
+   "EZVIZ CB2",
+   "EZVIZ HB8c"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__ezviz-hb8c__v05.png",
+  "name": "ezviz-cb2__ezviz-h1c__ezviz-hb8c__v05",
+  "products": [
+   "EZVIZ H1C",
+   "EZVIZ CB2",
+   "EZVIZ HB8c"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__ezviz-hb8c__v06.png",
+  "name": "ezviz-cb2__ezviz-h1c__ezviz-hb8c__v06",
+  "products": [
+   "EZVIZ H1C",
+   "EZVIZ CB2",
+   "EZVIZ HB8c"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__ezviz-hb8c__v07.png",
+  "name": "ezviz-cb2__ezviz-h1c__ezviz-hb8c__v07",
+  "products": [
+   "EZVIZ HB8c",
+   "EZVIZ CB2",
+   "EZVIZ H1C"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__ezviz-hb8c__v08.png",
+  "name": "ezviz-cb2__ezviz-h1c__ezviz-hb8c__v08",
+  "products": [
+   "EZVIZ HB8c",
+   "EZVIZ CB2",
+   "EZVIZ H1C"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__ezviz-hb8c__v09.png",
+  "name": "ezviz-cb2__ezviz-h1c__ezviz-hb8c__v09",
+  "products": [
+   "EZVIZ HB8c",
+   "EZVIZ CB2",
+   "EZVIZ H1C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__v01.png",
+  "name": "ezviz-cb2__ezviz-h1c__v01",
+  "products": [
+   "EZVIZ CB2",
+   "EZVIZ H1C"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__v02.png",
+  "name": "ezviz-cb2__ezviz-h1c__v02",
+  "products": [
+   "EZVIZ CB2",
+   "EZVIZ H1C"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__v03.png",
+  "name": "ezviz-cb2__ezviz-h1c__v03",
+  "products": [
+   "EZVIZ CB2",
+   "EZVIZ H1C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__v04.png",
+  "name": "ezviz-cb2__ezviz-h1c__v04",
+  "products": [
+   "EZVIZ H1C",
+   "EZVIZ CB2"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__v05.png",
+  "name": "ezviz-cb2__ezviz-h1c__v05",
+  "products": [
+   "EZVIZ H1C",
+   "EZVIZ CB2"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-h1c__v06.png",
+  "name": "ezviz-cb2__ezviz-h1c__v06",
+  "products": [
+   "EZVIZ H1C",
+   "EZVIZ CB2"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "H1C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "2.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-hb8c__v01.png",
+  "name": "ezviz-cb2__ezviz-hb8c__v01",
+  "products": [
+   "EZVIZ CB2",
+   "EZVIZ HB8c"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-hb8c__v02.png",
+  "name": "ezviz-cb2__ezviz-hb8c__v02",
+  "products": [
+   "EZVIZ CB2",
+   "EZVIZ HB8c"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-hb8c__v03.png",
+  "name": "ezviz-cb2__ezviz-hb8c__v03",
+  "products": [
+   "EZVIZ CB2",
+   "EZVIZ HB8c"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-hb8c__v04.png",
+  "name": "ezviz-cb2__ezviz-hb8c__v04",
+  "products": [
+   "EZVIZ HB8c",
+   "EZVIZ CB2"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-hb8c__v05.png",
+  "name": "ezviz-cb2__ezviz-hb8c__v05",
+  "products": [
+   "EZVIZ HB8c",
+   "EZVIZ CB2"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb2__ezviz-hb8c__v06.png",
+  "name": "ezviz-cb2__ezviz-hb8c__v06",
+  "products": [
+   "EZVIZ HB8c",
+   "EZVIZ CB2"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h1c__ezviz-hb8c__v01.png",
+  "name": "ezviz-h1c__ezviz-hb8c__v01",
+  "products": [
+   "EZVIZ H1C",
+   "EZVIZ HB8c"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h1c__ezviz-hb8c__v02.png",
+  "name": "ezviz-h1c__ezviz-hb8c__v02",
+  "products": [
+   "EZVIZ H1C",
+   "EZVIZ HB8c"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h1c__ezviz-hb8c__v03.png",
+  "name": "ezviz-h1c__ezviz-hb8c__v03",
+  "products": [
+   "EZVIZ H1C",
+   "EZVIZ HB8c"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h1c__ezviz-hb8c__v04.png",
+  "name": "ezviz-h1c__ezviz-hb8c__v04",
+  "products": [
+   "EZVIZ HB8c",
+   "EZVIZ H1C"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h1c__ezviz-hb8c__v05.png",
+  "name": "ezviz-h1c__ezviz-hb8c__v05",
+  "products": [
+   "EZVIZ HB8c",
+   "EZVIZ H1C"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h1c__ezviz-hb8c__v06.png",
+  "name": "ezviz-h1c__ezviz-hb8c__v06",
+  "products": [
+   "EZVIZ HB8c",
+   "EZVIZ H1C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H1C",
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "2.500 Mts",
+   "7.250 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cb2__v01.png",
+  "name": "ezviz-cb2__v01",
+  "products": [
+   "EZVIZ CB2"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cb2__v02.png",
+  "name": "ezviz-cb2__v02",
+  "products": [
+   "EZVIZ CB2"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cb2__v03.png",
+  "name": "ezviz-cb2__v03",
+  "products": [
+   "EZVIZ CB2"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cb2__v04.png",
+  "name": "ezviz-cb2__v04",
+  "products": [
+   "EZVIZ CB2"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cb2__v05.png",
+  "name": "ezviz-cb2__v05",
+  "products": [
+   "EZVIZ CB2"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cb2__v06.png",
+  "name": "ezviz-cb2__v06",
+  "products": [
+   "EZVIZ CB2"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CB2"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "6.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h1c__v01.png",
+  "name": "ezviz-h1c__v01",
+  "products": [
+   "EZVIZ H1C"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H1C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h1c__v02.png",
+  "name": "ezviz-h1c__v02",
+  "products": [
+   "EZVIZ H1C"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H1C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h1c__v03.png",
+  "name": "ezviz-h1c__v03",
+  "products": [
+   "EZVIZ H1C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H1C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h1c__v04.png",
+  "name": "ezviz-h1c__v04",
+  "products": [
+   "EZVIZ H1C"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H1C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h1c__v05.png",
+  "name": "ezviz-h1c__v05",
+  "products": [
+   "EZVIZ H1C"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H1C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h1c__v06.png",
+  "name": "ezviz-h1c__v06",
+  "products": [
+   "EZVIZ H1C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H1C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-hb8c__v01.png",
+  "name": "ezviz-hb8c__v01",
+  "products": [
+   "EZVIZ HB8c"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "7.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-hb8c__v02.png",
+  "name": "ezviz-hb8c__v02",
+  "products": [
+   "EZVIZ HB8c"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "7.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-hb8c__v03.png",
+  "name": "ezviz-hb8c__v03",
+  "products": [
+   "EZVIZ HB8c"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "7.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-hb8c__v04.png",
+  "name": "ezviz-hb8c__v04",
+  "products": [
+   "EZVIZ HB8c"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "7.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-hb8c__v05.png",
+  "name": "ezviz-hb8c__v05",
+  "products": [
+   "EZVIZ HB8c"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "7.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-hb8c__v06.png",
+  "name": "ezviz-hb8c__v06",
+  "products": [
+   "EZVIZ HB8c"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HB8c"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery"
+  ],
+  "prices": [
+   "7.250 Mts"
+  ],
+  "group_size": 1
+ }
+]
