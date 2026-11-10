@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v01.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v01",
+  "products": [
+   "EZVIZ H3c 4MP",
+   "EZVIZ CS-H7c",
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v02.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v02",
+  "products": [
+   "EZVIZ H3c 4MP",
+   "EZVIZ CS-H7c",
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v03.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v03",
+  "products": [
+   "EZVIZ H3c 4MP",
+   "EZVIZ CS-H7c",
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v04.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v04",
+  "products": [
+   "EZVIZ CS-H7c",
+   "EZVIZ H3c 4MP",
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v05.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v05",
+  "products": [
+   "EZVIZ CS-H7c",
+   "EZVIZ H3c 4MP",
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v06.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v06",
+  "products": [
+   "EZVIZ CS-H7c",
+   "EZVIZ H3c 4MP",
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v07.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v07",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm",
+   "EZVIZ H3c 4MP",
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v08.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v08",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm",
+   "EZVIZ H3c 4MP",
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v09.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v09",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm",
+   "EZVIZ H3c 4MP",
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__v01.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__v01",
+  "products": [
+   "EZVIZ H3c 4MP",
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__v02.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__v02",
+  "products": [
+   "EZVIZ H3c 4MP",
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__v03.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__v03",
+  "products": [
+   "EZVIZ H3c 4MP",
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__v04.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__v04",
+  "products": [
+   "EZVIZ CS-H7c",
+   "EZVIZ H3c 4MP"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__v05.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__v05",
+  "products": [
+   "EZVIZ CS-H7c",
+   "EZVIZ H3c 4MP"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-cs-h7c__v06.png",
+  "name": "ezviz-h3c-4mp__ezviz-cs-h7c__v06",
+  "products": [
+   "EZVIZ CS-H7c",
+   "EZVIZ H3c 4MP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "CS-H7c"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "4.875 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-h8-5mp-pro-4mm__v01.png",
+  "name": "ezviz-h3c-4mp__ezviz-h8-5mp-pro-4mm__v01",
+  "products": [
+   "EZVIZ H3c 4MP",
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-h8-5mp-pro-4mm__v02.png",
+  "name": "ezviz-h3c-4mp__ezviz-h8-5mp-pro-4mm__v02",
+  "products": [
+   "EZVIZ H3c 4MP",
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-h8-5mp-pro-4mm__v03.png",
+  "name": "ezviz-h3c-4mp__ezviz-h8-5mp-pro-4mm__v03",
+  "products": [
+   "EZVIZ H3c 4MP",
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-h8-5mp-pro-4mm__v04.png",
+  "name": "ezviz-h3c-4mp__ezviz-h8-5mp-pro-4mm__v04",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm",
+   "EZVIZ H3c 4MP"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-h8-5mp-pro-4mm__v05.png",
+  "name": "ezviz-h3c-4mp__ezviz-h8-5mp-pro-4mm__v05",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm",
+   "EZVIZ H3c 4MP"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__ezviz-h8-5mp-pro-4mm__v06.png",
+  "name": "ezviz-h3c-4mp__ezviz-h8-5mp-pro-4mm__v06",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm",
+   "EZVIZ H3c 4MP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v01.png",
+  "name": "ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v01",
+  "products": [
+   "EZVIZ CS-H7c",
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v02.png",
+  "name": "ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v02",
+  "products": [
+   "EZVIZ CS-H7c",
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v03.png",
+  "name": "ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v03",
+  "products": [
+   "EZVIZ CS-H7c",
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v04.png",
+  "name": "ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v04",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm",
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v05.png",
+  "name": "ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v05",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm",
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v06.png",
+  "name": "ezviz-cs-h7c__ezviz-h8-5mp-pro-4mm__v06",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm",
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H7c",
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.875 Mts",
+   "6.755 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__v01.png",
+  "name": "ezviz-h3c-4mp__v01",
+  "products": [
+   "EZVIZ H3c 4MP"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__v02.png",
+  "name": "ezviz-h3c-4mp__v02",
+  "products": [
+   "EZVIZ H3c 4MP"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__v03.png",
+  "name": "ezviz-h3c-4mp__v03",
+  "products": [
+   "EZVIZ H3c 4MP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__v04.png",
+  "name": "ezviz-h3c-4mp__v04",
+  "products": [
+   "EZVIZ H3c 4MP"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__v05.png",
+  "name": "ezviz-h3c-4mp__v05",
+  "products": [
+   "EZVIZ H3c 4MP"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h3c-4mp__v06.png",
+  "name": "ezviz-h3c-4mp__v06",
+  "products": [
+   "EZVIZ H3c 4MP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H3c 4MP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "5.150 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h7c__v01.png",
+  "name": "ezviz-cs-h7c__v01",
+  "products": [
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H7c"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.875 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h7c__v02.png",
+  "name": "ezviz-cs-h7c__v02",
+  "products": [
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H7c"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.875 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h7c__v03.png",
+  "name": "ezviz-cs-h7c__v03",
+  "products": [
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H7c"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.875 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h7c__v04.png",
+  "name": "ezviz-cs-h7c__v04",
+  "products": [
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H7c"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.875 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h7c__v05.png",
+  "name": "ezviz-cs-h7c__v05",
+  "products": [
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H7c"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.875 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-h7c__v06.png",
+  "name": "ezviz-cs-h7c__v06",
+  "products": [
+   "EZVIZ CS-H7c"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-H7c"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "4.875 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h8-5mp-pro-4mm__v01.png",
+  "name": "ezviz-h8-5mp-pro-4mm__v01",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.755 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h8-5mp-pro-4mm__v02.png",
+  "name": "ezviz-h8-5mp-pro-4mm__v02",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.755 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h8-5mp-pro-4mm__v03.png",
+  "name": "ezviz-h8-5mp-pro-4mm__v03",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.755 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h8-5mp-pro-4mm__v04.png",
+  "name": "ezviz-h8-5mp-pro-4mm__v04",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.755 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h8-5mp-pro-4mm__v05.png",
+  "name": "ezviz-h8-5mp-pro-4mm__v05",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.755 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h8-5mp-pro-4mm__v06.png",
+  "name": "ezviz-h8-5mp-pro-4mm__v06",
+  "products": [
+   "EZVIZ H8 5MP PRO,4mm"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H8 5MP PRO,4mm"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.755 Mts"
+  ],
+  "group_size": 1
+ }
+]
