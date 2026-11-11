@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v01.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v01",
+  "products": [
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C1C-B",
+   "EZVIZ C2C"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v02.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v02",
+  "products": [
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C1C-B",
+   "EZVIZ C2C"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v03.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v03",
+  "products": [
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C1C-B",
+   "EZVIZ C2C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v04.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v04",
+  "products": [
+   "EZVIZ C1C-B",
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C2C"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v05.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v05",
+  "products": [
+   "EZVIZ C1C-B",
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C2C"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v06.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v06",
+  "products": [
+   "EZVIZ C1C-B",
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C2C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v07.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v07",
+  "products": [
+   "EZVIZ C2C",
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C1C-B"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v08.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v08",
+  "products": [
+   "EZVIZ C2C",
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C1C-B"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v09.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__ezviz-c2c__v09",
+  "products": [
+   "EZVIZ C2C",
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C1C-B"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__v01.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__v01",
+  "products": [
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C1C-B"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__v02.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__v02",
+  "products": [
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C1C-B"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__v03.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__v03",
+  "products": [
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C1C-B"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__v04.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__v04",
+  "products": [
+   "EZVIZ C1C-B",
+   "EZVIZ CS-HB8c/SP"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__v05.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__v05",
+  "products": [
+   "EZVIZ C1C-B",
+   "EZVIZ CS-HB8c/SP"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c1c-b__v06.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c1c-b__v06",
+  "products": [
+   "EZVIZ C1C-B",
+   "EZVIZ CS-HB8c/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C1C-B"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "3.175 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c2c__v01.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c2c__v01",
+  "products": [
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C2C"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c2c__v02.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c2c__v02",
+  "products": [
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C2C"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c2c__v03.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c2c__v03",
+  "products": [
+   "EZVIZ CS-HB8c/SP",
+   "EZVIZ C2C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c2c__v04.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c2c__v04",
+  "products": [
+   "EZVIZ C2C",
+   "EZVIZ CS-HB8c/SP"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c2c__v05.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c2c__v05",
+  "products": [
+   "EZVIZ C2C",
+   "EZVIZ CS-HB8c/SP"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__ezviz-c2c__v06.png",
+  "name": "ezviz-cs-hb8c-sp__ezviz-c2c__v06",
+  "products": [
+   "EZVIZ C2C",
+   "EZVIZ CS-HB8c/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "9.250 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c1c-b__ezviz-c2c__v01.png",
+  "name": "ezviz-c1c-b__ezviz-c2c__v01",
+  "products": [
+   "EZVIZ C1C-B",
+   "EZVIZ C2C"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c1c-b__ezviz-c2c__v02.png",
+  "name": "ezviz-c1c-b__ezviz-c2c__v02",
+  "products": [
+   "EZVIZ C1C-B",
+   "EZVIZ C2C"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c1c-b__ezviz-c2c__v03.png",
+  "name": "ezviz-c1c-b__ezviz-c2c__v03",
+  "products": [
+   "EZVIZ C1C-B",
+   "EZVIZ C2C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c1c-b__ezviz-c2c__v04.png",
+  "name": "ezviz-c1c-b__ezviz-c2c__v04",
+  "products": [
+   "EZVIZ C2C",
+   "EZVIZ C1C-B"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c1c-b__ezviz-c2c__v05.png",
+  "name": "ezviz-c1c-b__ezviz-c2c__v05",
+  "products": [
+   "EZVIZ C2C",
+   "EZVIZ C1C-B"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c1c-b__ezviz-c2c__v06.png",
+  "name": "ezviz-c1c-b__ezviz-c2c__v06",
+  "products": [
+   "EZVIZ C2C",
+   "EZVIZ C1C-B"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1C-B",
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.175 Mts",
+   "2.975 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__v01.png",
+  "name": "ezviz-cs-hb8c-sp__v01",
+  "products": [
+   "EZVIZ CS-HB8c/SP"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "9.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__v02.png",
+  "name": "ezviz-cs-hb8c-sp__v02",
+  "products": [
+   "EZVIZ CS-HB8c/SP"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "9.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__v03.png",
+  "name": "ezviz-cs-hb8c-sp__v03",
+  "products": [
+   "EZVIZ CS-HB8c/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "9.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__v04.png",
+  "name": "ezviz-cs-hb8c-sp__v04",
+  "products": [
+   "EZVIZ CS-HB8c/SP"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "9.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__v05.png",
+  "name": "ezviz-cs-hb8c-sp__v05",
+  "products": [
+   "EZVIZ CS-HB8c/SP"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "9.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb8c-sp__v06.png",
+  "name": "ezviz-cs-hb8c-sp__v06",
+  "products": [
+   "EZVIZ CS-HB8c/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB8c/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Solar"
+  ],
+  "prices": [
+   "9.250 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c1c-b__v01.png",
+  "name": "ezviz-c1c-b__v01",
+  "products": [
+   "EZVIZ C1C-B"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1C-B"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.175 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c1c-b__v02.png",
+  "name": "ezviz-c1c-b__v02",
+  "products": [
+   "EZVIZ C1C-B"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1C-B"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.175 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c1c-b__v03.png",
+  "name": "ezviz-c1c-b__v03",
+  "products": [
+   "EZVIZ C1C-B"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1C-B"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.175 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c1c-b__v04.png",
+  "name": "ezviz-c1c-b__v04",
+  "products": [
+   "EZVIZ C1C-B"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1C-B"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.175 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c1c-b__v05.png",
+  "name": "ezviz-c1c-b__v05",
+  "products": [
+   "EZVIZ C1C-B"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1C-B"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.175 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c1c-b__v06.png",
+  "name": "ezviz-c1c-b__v06",
+  "products": [
+   "EZVIZ C1C-B"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1C-B"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.175 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c2c__v01.png",
+  "name": "ezviz-c2c__v01",
+  "products": [
+   "EZVIZ C2C"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.975 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c2c__v02.png",
+  "name": "ezviz-c2c__v02",
+  "products": [
+   "EZVIZ C2C"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.975 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c2c__v03.png",
+  "name": "ezviz-c2c__v03",
+  "products": [
+   "EZVIZ C2C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.975 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c2c__v04.png",
+  "name": "ezviz-c2c__v04",
+  "products": [
+   "EZVIZ C2C"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.975 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c2c__v05.png",
+  "name": "ezviz-c2c__v05",
+  "products": [
+   "EZVIZ C2C"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.975 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c2c__v06.png",
+  "name": "ezviz-c2c__v06",
+  "products": [
+   "EZVIZ C2C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.975 Mts"
+  ],
+  "group_size": 1
+ }
+]
