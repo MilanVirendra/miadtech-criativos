@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v01.png",
+  "name": "ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v01",
+  "products": [
+   "EZVIZ LC3",
+   "EZVIZ C1T",
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v02.png",
+  "name": "ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v02",
+  "products": [
+   "EZVIZ LC3",
+   "EZVIZ C1T",
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v03.png",
+  "name": "ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v03",
+  "products": [
+   "EZVIZ LC3",
+   "EZVIZ C1T",
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v04.png",
+  "name": "ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v04",
+  "products": [
+   "EZVIZ C1T",
+   "EZVIZ LC3",
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v05.png",
+  "name": "ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v05",
+  "products": [
+   "EZVIZ C1T",
+   "EZVIZ LC3",
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v06.png",
+  "name": "ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v06",
+  "products": [
+   "EZVIZ C1T",
+   "EZVIZ LC3",
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v07.png",
+  "name": "ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v07",
+  "products": [
+   "EZVIZ H80x Dual",
+   "EZVIZ LC3",
+   "EZVIZ C1T"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v08.png",
+  "name": "ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v08",
+  "products": [
+   "EZVIZ H80x Dual",
+   "EZVIZ LC3",
+   "EZVIZ C1T"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v09.png",
+  "name": "ezviz-lc3__ezviz-c1t__ezviz-h80x-dual__v09",
+  "products": [
+   "EZVIZ H80x Dual",
+   "EZVIZ LC3",
+   "EZVIZ C1T"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__v01.png",
+  "name": "ezviz-lc3__ezviz-c1t__v01",
+  "products": [
+   "EZVIZ LC3",
+   "EZVIZ C1T"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__v02.png",
+  "name": "ezviz-lc3__ezviz-c1t__v02",
+  "products": [
+   "EZVIZ LC3",
+   "EZVIZ C1T"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__v03.png",
+  "name": "ezviz-lc3__ezviz-c1t__v03",
+  "products": [
+   "EZVIZ LC3",
+   "EZVIZ C1T"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__v04.png",
+  "name": "ezviz-lc3__ezviz-c1t__v04",
+  "products": [
+   "EZVIZ C1T",
+   "EZVIZ LC3"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__v05.png",
+  "name": "ezviz-lc3__ezviz-c1t__v05",
+  "products": [
+   "EZVIZ C1T",
+   "EZVIZ LC3"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-c1t__v06.png",
+  "name": "ezviz-lc3__ezviz-c1t__v06",
+  "products": [
+   "EZVIZ C1T",
+   "EZVIZ LC3"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "C1T"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "3.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-h80x-dual__v01.png",
+  "name": "ezviz-lc3__ezviz-h80x-dual__v01",
+  "products": [
+   "EZVIZ LC3",
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-h80x-dual__v02.png",
+  "name": "ezviz-lc3__ezviz-h80x-dual__v02",
+  "products": [
+   "EZVIZ LC3",
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-h80x-dual__v03.png",
+  "name": "ezviz-lc3__ezviz-h80x-dual__v03",
+  "products": [
+   "EZVIZ LC3",
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-h80x-dual__v04.png",
+  "name": "ezviz-lc3__ezviz-h80x-dual__v04",
+  "products": [
+   "EZVIZ H80x Dual",
+   "EZVIZ LC3"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-h80x-dual__v05.png",
+  "name": "ezviz-lc3__ezviz-h80x-dual__v05",
+  "products": [
+   "EZVIZ H80x Dual",
+   "EZVIZ LC3"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc3__ezviz-h80x-dual__v06.png",
+  "name": "ezviz-lc3__ezviz-h80x-dual__v06",
+  "products": [
+   "EZVIZ H80x Dual",
+   "EZVIZ LC3"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c1t__ezviz-h80x-dual__v01.png",
+  "name": "ezviz-c1t__ezviz-h80x-dual__v01",
+  "products": [
+   "EZVIZ C1T",
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c1t__ezviz-h80x-dual__v02.png",
+  "name": "ezviz-c1t__ezviz-h80x-dual__v02",
+  "products": [
+   "EZVIZ C1T",
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c1t__ezviz-h80x-dual__v03.png",
+  "name": "ezviz-c1t__ezviz-h80x-dual__v03",
+  "products": [
+   "EZVIZ C1T",
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c1t__ezviz-h80x-dual__v04.png",
+  "name": "ezviz-c1t__ezviz-h80x-dual__v04",
+  "products": [
+   "EZVIZ H80x Dual",
+   "EZVIZ C1T"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c1t__ezviz-h80x-dual__v05.png",
+  "name": "ezviz-c1t__ezviz-h80x-dual__v05",
+  "products": [
+   "EZVIZ H80x Dual",
+   "EZVIZ C1T"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c1t__ezviz-h80x-dual__v06.png",
+  "name": "ezviz-c1t__ezviz-h80x-dual__v06",
+  "products": [
+   "EZVIZ H80x Dual",
+   "EZVIZ C1T"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1T",
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.500 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc3__v01.png",
+  "name": "ezviz-lc3__v01",
+  "products": [
+   "EZVIZ LC3"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lc3__v02.png",
+  "name": "ezviz-lc3__v02",
+  "products": [
+   "EZVIZ LC3"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lc3__v03.png",
+  "name": "ezviz-lc3__v03",
+  "products": [
+   "EZVIZ LC3"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lc3__v04.png",
+  "name": "ezviz-lc3__v04",
+  "products": [
+   "EZVIZ LC3"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lc3__v05.png",
+  "name": "ezviz-lc3__v05",
+  "products": [
+   "EZVIZ LC3"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lc3__v06.png",
+  "name": "ezviz-lc3__v06",
+  "products": [
+   "EZVIZ LC3"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC3"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.225 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c1t__v01.png",
+  "name": "ezviz-c1t__v01",
+  "products": [
+   "EZVIZ C1T"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1T"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c1t__v02.png",
+  "name": "ezviz-c1t__v02",
+  "products": [
+   "EZVIZ C1T"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1T"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c1t__v03.png",
+  "name": "ezviz-c1t__v03",
+  "products": [
+   "EZVIZ C1T"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1T"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c1t__v04.png",
+  "name": "ezviz-c1t__v04",
+  "products": [
+   "EZVIZ C1T"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1T"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c1t__v05.png",
+  "name": "ezviz-c1t__v05",
+  "products": [
+   "EZVIZ C1T"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1T"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c1t__v06.png",
+  "name": "ezviz-c1t__v06",
+  "products": [
+   "EZVIZ C1T"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C1T"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "3.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h80x-dual__v01.png",
+  "name": "ezviz-h80x-dual__v01",
+  "products": [
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "7.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h80x-dual__v02.png",
+  "name": "ezviz-h80x-dual__v02",
+  "products": [
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "7.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h80x-dual__v03.png",
+  "name": "ezviz-h80x-dual__v03",
+  "products": [
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "7.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h80x-dual__v04.png",
+  "name": "ezviz-h80x-dual__v04",
+  "products": [
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "7.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h80x-dual__v05.png",
+  "name": "ezviz-h80x-dual__v05",
+  "products": [
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "7.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-h80x-dual__v06.png",
+  "name": "ezviz-h80x-dual__v06",
+  "products": [
+   "EZVIZ H80x Dual"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "H80x Dual"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "7.500 Mts"
+  ],
+  "group_size": 1
+ }
+]
