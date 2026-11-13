@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v01.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v01",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ C2C (720P)",
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v02.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v02",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ C2C (720P)",
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v03.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v03",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ C2C (720P)",
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v04.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v04",
+  "products": [
+   "EZVIZ C2C (720P)",
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v05.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v05",
+  "products": [
+   "EZVIZ C2C (720P)",
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v06.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v06",
+  "products": [
+   "EZVIZ C2C (720P)",
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v07.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v07",
+  "products": [
+   "EZVIZ LB1-Color",
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v08.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v08",
+  "products": [
+   "EZVIZ LB1-Color",
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v09.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__ezviz-lb1-color__v09",
+  "products": [
+   "EZVIZ LB1-Color",
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__v01.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__v01",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__v02.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__v02",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__v03.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__v03",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__v04.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__v04",
+  "products": [
+   "EZVIZ C2C (720P)",
+   "EZVIZ CS-CB2 (2K,4GA)"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__v05.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__v05",
+  "products": [
+   "EZVIZ C2C (720P)",
+   "EZVIZ CS-CB2 (2K,4GA)"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__v06.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-c2c-720p__v06",
+  "products": [
+   "EZVIZ C2C (720P)",
+   "EZVIZ CS-CB2 (2K,4GA)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "C2C (720P)"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "2.450 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-lb1-color__v01.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-lb1-color__v01",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-lb1-color__v02.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-lb1-color__v02",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-lb1-color__v03.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-lb1-color__v03",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)",
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-lb1-color__v04.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-lb1-color__v04",
+  "products": [
+   "EZVIZ LB1-Color",
+   "EZVIZ CS-CB2 (2K,4GA)"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-lb1-color__v05.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-lb1-color__v05",
+  "products": [
+   "EZVIZ LB1-Color",
+   "EZVIZ CS-CB2 (2K,4GA)"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__ezviz-lb1-color__v06.png",
+  "name": "ezviz-cs-cb2-2k-4ga__ezviz-lb1-color__v06",
+  "products": [
+   "EZVIZ LB1-Color",
+   "EZVIZ CS-CB2 (2K,4GA)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "6.750 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c2c-720p__ezviz-lb1-color__v01.png",
+  "name": "ezviz-c2c-720p__ezviz-lb1-color__v01",
+  "products": [
+   "EZVIZ C2C (720P)",
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c2c-720p__ezviz-lb1-color__v02.png",
+  "name": "ezviz-c2c-720p__ezviz-lb1-color__v02",
+  "products": [
+   "EZVIZ C2C (720P)",
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c2c-720p__ezviz-lb1-color__v03.png",
+  "name": "ezviz-c2c-720p__ezviz-lb1-color__v03",
+  "products": [
+   "EZVIZ C2C (720P)",
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c2c-720p__ezviz-lb1-color__v04.png",
+  "name": "ezviz-c2c-720p__ezviz-lb1-color__v04",
+  "products": [
+   "EZVIZ LB1-Color",
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c2c-720p__ezviz-lb1-color__v05.png",
+  "name": "ezviz-c2c-720p__ezviz-lb1-color__v05",
+  "products": [
+   "EZVIZ LB1-Color",
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-c2c-720p__ezviz-lb1-color__v06.png",
+  "name": "ezviz-c2c-720p__ezviz-lb1-color__v06",
+  "products": [
+   "EZVIZ LB1-Color",
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C (720P)",
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Smart Bulb"
+  ],
+  "prices": [
+   "2.450 Mts",
+   "1.200 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__v01.png",
+  "name": "ezviz-cs-cb2-2k-4ga__v01",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G"
+  ],
+  "prices": [
+   "6.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__v02.png",
+  "name": "ezviz-cs-cb2-2k-4ga__v02",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G"
+  ],
+  "prices": [
+   "6.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__v03.png",
+  "name": "ezviz-cs-cb2-2k-4ga__v03",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G"
+  ],
+  "prices": [
+   "6.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__v04.png",
+  "name": "ezviz-cs-cb2-2k-4ga__v04",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G"
+  ],
+  "prices": [
+   "6.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__v05.png",
+  "name": "ezviz-cs-cb2-2k-4ga__v05",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G"
+  ],
+  "prices": [
+   "6.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-cb2-2k-4ga__v06.png",
+  "name": "ezviz-cs-cb2-2k-4ga__v06",
+  "products": [
+   "EZVIZ CS-CB2 (2K,4GA)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-CB2 (2K,4GA)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi Battery 4G"
+  ],
+  "prices": [
+   "6.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c2c-720p__v01.png",
+  "name": "ezviz-c2c-720p__v01",
+  "products": [
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C (720P)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.450 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c2c-720p__v02.png",
+  "name": "ezviz-c2c-720p__v02",
+  "products": [
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C (720P)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.450 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c2c-720p__v03.png",
+  "name": "ezviz-c2c-720p__v03",
+  "products": [
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C (720P)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.450 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c2c-720p__v04.png",
+  "name": "ezviz-c2c-720p__v04",
+  "products": [
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C (720P)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.450 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c2c-720p__v05.png",
+  "name": "ezviz-c2c-720p__v05",
+  "products": [
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C (720P)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.450 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-c2c-720p__v06.png",
+  "name": "ezviz-c2c-720p__v06",
+  "products": [
+   "EZVIZ C2C (720P)"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "C2C (720P)"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "2.450 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lb1-color__v01.png",
+  "name": "ezviz-lb1-color__v01",
+  "products": [
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Smart Bulb"
+  ],
+  "prices": [
+   "1.200 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lb1-color__v02.png",
+  "name": "ezviz-lb1-color__v02",
+  "products": [
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Smart Bulb"
+  ],
+  "prices": [
+   "1.200 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lb1-color__v03.png",
+  "name": "ezviz-lb1-color__v03",
+  "products": [
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Smart Bulb"
+  ],
+  "prices": [
+   "1.200 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lb1-color__v04.png",
+  "name": "ezviz-lb1-color__v04",
+  "products": [
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Smart Bulb"
+  ],
+  "prices": [
+   "1.200 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lb1-color__v05.png",
+  "name": "ezviz-lb1-color__v05",
+  "products": [
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Smart Bulb"
+  ],
+  "prices": [
+   "1.200 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lb1-color__v06.png",
+  "name": "ezviz-lb1-color__v06",
+  "products": [
+   "EZVIZ LB1-Color"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LB1-Color"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Smart Bulb"
+  ],
+  "prices": [
+   "1.200 Mts"
+  ],
+  "group_size": 1
+ }
+]
