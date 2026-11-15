@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v01.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v01",
+  "products": [
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ LC1C",
+   "EZVIZ DB2C"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v02.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v02",
+  "products": [
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ LC1C",
+   "EZVIZ DB2C"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v03.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v03",
+  "products": [
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ LC1C",
+   "EZVIZ DB2C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v04.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v04",
+  "products": [
+   "EZVIZ LC1C",
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ DB2C"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v05.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v05",
+  "products": [
+   "EZVIZ LC1C",
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ DB2C"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v06.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v06",
+  "products": [
+   "EZVIZ LC1C",
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ DB2C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v07.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v07",
+  "products": [
+   "EZVIZ DB2C",
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ LC1C"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v08.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v08",
+  "products": [
+   "EZVIZ DB2C",
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ LC1C"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v09.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__ezviz-db2c__v09",
+  "products": [
+   "EZVIZ DB2C",
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ LC1C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__v01.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__v01",
+  "products": [
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ LC1C"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__v02.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__v02",
+  "products": [
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ LC1C"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__v03.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__v03",
+  "products": [
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ LC1C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__v04.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__v04",
+  "products": [
+   "EZVIZ LC1C",
+   "EZVIZ CS-HB90X/SP"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__v05.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__v05",
+  "products": [
+   "EZVIZ LC1C",
+   "EZVIZ CS-HB90X/SP"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-lc1c__v06.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-lc1c__v06",
+  "products": [
+   "EZVIZ LC1C",
+   "EZVIZ CS-HB90X/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "LC1C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "8.750 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-db2c__v01.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-db2c__v01",
+  "products": [
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ DB2C"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-db2c__v02.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-db2c__v02",
+  "products": [
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ DB2C"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-db2c__v03.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-db2c__v03",
+  "products": [
+   "EZVIZ CS-HB90X/SP",
+   "EZVIZ DB2C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-db2c__v04.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-db2c__v04",
+  "products": [
+   "EZVIZ DB2C",
+   "EZVIZ CS-HB90X/SP"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-db2c__v05.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-db2c__v05",
+  "products": [
+   "EZVIZ DB2C",
+   "EZVIZ CS-HB90X/SP"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__ezviz-db2c__v06.png",
+  "name": "ezviz-cs-hb90x-sp__ezviz-db2c__v06",
+  "products": [
+   "EZVIZ DB2C",
+   "EZVIZ CS-HB90X/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "16.550 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc1c__ezviz-db2c__v01.png",
+  "name": "ezviz-lc1c__ezviz-db2c__v01",
+  "products": [
+   "EZVIZ LC1C",
+   "EZVIZ DB2C"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc1c__ezviz-db2c__v02.png",
+  "name": "ezviz-lc1c__ezviz-db2c__v02",
+  "products": [
+   "EZVIZ LC1C",
+   "EZVIZ DB2C"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc1c__ezviz-db2c__v03.png",
+  "name": "ezviz-lc1c__ezviz-db2c__v03",
+  "products": [
+   "EZVIZ LC1C",
+   "EZVIZ DB2C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc1c__ezviz-db2c__v04.png",
+  "name": "ezviz-lc1c__ezviz-db2c__v04",
+  "products": [
+   "EZVIZ DB2C",
+   "EZVIZ LC1C"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc1c__ezviz-db2c__v05.png",
+  "name": "ezviz-lc1c__ezviz-db2c__v05",
+  "products": [
+   "EZVIZ DB2C",
+   "EZVIZ LC1C"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-lc1c__ezviz-db2c__v06.png",
+  "name": "ezviz-lc1c__ezviz-db2c__v06",
+  "products": [
+   "EZVIZ DB2C",
+   "EZVIZ LC1C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC1C",
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ",
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi",
+   "Video Doorbell"
+  ],
+  "prices": [
+   "8.750 Mts",
+   "7.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__v01.png",
+  "name": "ezviz-cs-hb90x-sp__v01",
+  "products": [
+   "EZVIZ CS-HB90X/SP"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G"
+  ],
+  "prices": [
+   "16.550 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__v02.png",
+  "name": "ezviz-cs-hb90x-sp__v02",
+  "products": [
+   "EZVIZ CS-HB90X/SP"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G"
+  ],
+  "prices": [
+   "16.550 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__v03.png",
+  "name": "ezviz-cs-hb90x-sp__v03",
+  "products": [
+   "EZVIZ CS-HB90X/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G"
+  ],
+  "prices": [
+   "16.550 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__v04.png",
+  "name": "ezviz-cs-hb90x-sp__v04",
+  "products": [
+   "EZVIZ CS-HB90X/SP"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G"
+  ],
+  "prices": [
+   "16.550 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__v05.png",
+  "name": "ezviz-cs-hb90x-sp__v05",
+  "products": [
+   "EZVIZ CS-HB90X/SP"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G"
+  ],
+  "prices": [
+   "16.550 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-cs-hb90x-sp__v06.png",
+  "name": "ezviz-cs-hb90x-sp__v06",
+  "products": [
+   "EZVIZ CS-HB90X/SP"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "CS-HB90X/SP"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Solar 4G"
+  ],
+  "prices": [
+   "16.550 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lc1c__v01.png",
+  "name": "ezviz-lc1c__v01",
+  "products": [
+   "EZVIZ LC1C"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC1C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "8.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lc1c__v02.png",
+  "name": "ezviz-lc1c__v02",
+  "products": [
+   "EZVIZ LC1C"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC1C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "8.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lc1c__v03.png",
+  "name": "ezviz-lc1c__v03",
+  "products": [
+   "EZVIZ LC1C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC1C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "8.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lc1c__v04.png",
+  "name": "ezviz-lc1c__v04",
+  "products": [
+   "EZVIZ LC1C"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC1C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "8.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lc1c__v05.png",
+  "name": "ezviz-lc1c__v05",
+  "products": [
+   "EZVIZ LC1C"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC1C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "8.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-lc1c__v06.png",
+  "name": "ezviz-lc1c__v06",
+  "products": [
+   "EZVIZ LC1C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LC1C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Camera Wi-fi"
+  ],
+  "prices": [
+   "8.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-db2c__v01.png",
+  "name": "ezviz-db2c__v01",
+  "products": [
+   "EZVIZ DB2C"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Video Doorbell"
+  ],
+  "prices": [
+   "7.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-db2c__v02.png",
+  "name": "ezviz-db2c__v02",
+  "products": [
+   "EZVIZ DB2C"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Video Doorbell"
+  ],
+  "prices": [
+   "7.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-db2c__v03.png",
+  "name": "ezviz-db2c__v03",
+  "products": [
+   "EZVIZ DB2C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Video Doorbell"
+  ],
+  "prices": [
+   "7.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-db2c__v04.png",
+  "name": "ezviz-db2c__v04",
+  "products": [
+   "EZVIZ DB2C"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Video Doorbell"
+  ],
+  "prices": [
+   "7.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-db2c__v05.png",
+  "name": "ezviz-db2c__v05",
+  "products": [
+   "EZVIZ DB2C"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Video Doorbell"
+  ],
+  "prices": [
+   "7.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/ezviz-db2c__v06.png",
+  "name": "ezviz-db2c__v06",
+  "products": [
+   "EZVIZ DB2C"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "DB2C"
+  ],
+  "brands": [
+   "EZVIZ"
+  ],
+  "types": [
+   "Video Doorbell"
+  ],
+  "prices": [
+   "7.500 Mts"
+  ],
+  "group_size": 1
+ }
+]
