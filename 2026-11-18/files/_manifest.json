@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v01.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v01",
+  "products": [
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 128/6",
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v02.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v02",
+  "products": [
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 128/6",
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v03.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v03",
+  "products": [
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 128/6",
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v04.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v04",
+  "products": [
+   "Redmi Redmi 17 128/6",
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v05.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v05",
+  "products": [
+   "Redmi Redmi 17 128/6",
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v06.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v06",
+  "products": [
+   "Redmi Redmi 17 128/6",
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v07.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v07",
+  "products": [
+   "Redmi Redmi 17 256/6",
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v08.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v08",
+  "products": [
+   "Redmi Redmi 17 256/6",
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v09.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__redmi-redmi-17-256-6__v09",
+  "products": [
+   "Redmi Redmi 17 256/6",
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__v01.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__v01",
+  "products": [
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__v02.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__v02",
+  "products": [
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__v03.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__v03",
+  "products": [
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__v04.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__v04",
+  "products": [
+   "Redmi Redmi 17 128/6",
+   "Redmi Redmi 17 128/4"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__v05.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__v05",
+  "products": [
+   "Redmi Redmi 17 128/6",
+   "Redmi Redmi 17 128/4"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-128-6__v06.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-128-6__v06",
+  "products": [
+   "Redmi Redmi 17 128/6",
+   "Redmi Redmi 17 128/4"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 128/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "17.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-256-6__v01.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-256-6__v01",
+  "products": [
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-256-6__v02.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-256-6__v02",
+  "products": [
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-256-6__v03.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-256-6__v03",
+  "products": [
+   "Redmi Redmi 17 128/4",
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-256-6__v04.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-256-6__v04",
+  "products": [
+   "Redmi Redmi 17 256/6",
+   "Redmi Redmi 17 128/4"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-256-6__v05.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-256-6__v05",
+  "products": [
+   "Redmi Redmi 17 256/6",
+   "Redmi Redmi 17 128/4"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__redmi-redmi-17-256-6__v06.png",
+  "name": "redmi-redmi-17-128-4__redmi-redmi-17-256-6__v06",
+  "products": [
+   "Redmi Redmi 17 256/6",
+   "Redmi Redmi 17 128/4"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-6__redmi-redmi-17-256-6__v01.png",
+  "name": "redmi-redmi-17-128-6__redmi-redmi-17-256-6__v01",
+  "products": [
+   "Redmi Redmi 17 128/6",
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-6__redmi-redmi-17-256-6__v02.png",
+  "name": "redmi-redmi-17-128-6__redmi-redmi-17-256-6__v02",
+  "products": [
+   "Redmi Redmi 17 128/6",
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-6__redmi-redmi-17-256-6__v03.png",
+  "name": "redmi-redmi-17-128-6__redmi-redmi-17-256-6__v03",
+  "products": [
+   "Redmi Redmi 17 128/6",
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-6__redmi-redmi-17-256-6__v04.png",
+  "name": "redmi-redmi-17-128-6__redmi-redmi-17-256-6__v04",
+  "products": [
+   "Redmi Redmi 17 256/6",
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-6__redmi-redmi-17-256-6__v05.png",
+  "name": "redmi-redmi-17-128-6__redmi-redmi-17-256-6__v05",
+  "products": [
+   "Redmi Redmi 17 256/6",
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-6__redmi-redmi-17-256-6__v06.png",
+  "name": "redmi-redmi-17-128-6__redmi-redmi-17-256-6__v06",
+  "products": [
+   "Redmi Redmi 17 256/6",
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/6",
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__v01.png",
+  "name": "redmi-redmi-17-128-4__v01",
+  "products": [
+   "Redmi Redmi 17 128/4"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__v02.png",
+  "name": "redmi-redmi-17-128-4__v02",
+  "products": [
+   "Redmi Redmi 17 128/4"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__v03.png",
+  "name": "redmi-redmi-17-128-4__v03",
+  "products": [
+   "Redmi Redmi 17 128/4"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__v04.png",
+  "name": "redmi-redmi-17-128-4__v04",
+  "products": [
+   "Redmi Redmi 17 128/4"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__v05.png",
+  "name": "redmi-redmi-17-128-4__v05",
+  "products": [
+   "Redmi Redmi 17 128/4"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-128-4__v06.png",
+  "name": "redmi-redmi-17-128-4__v06",
+  "products": [
+   "Redmi Redmi 17 128/4"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/4"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "15.750 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-128-6__v01.png",
+  "name": "redmi-redmi-17-128-6__v01",
+  "products": [
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-128-6__v02.png",
+  "name": "redmi-redmi-17-128-6__v02",
+  "products": [
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-128-6__v03.png",
+  "name": "redmi-redmi-17-128-6__v03",
+  "products": [
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-128-6__v04.png",
+  "name": "redmi-redmi-17-128-6__v04",
+  "products": [
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-128-6__v05.png",
+  "name": "redmi-redmi-17-128-6__v05",
+  "products": [
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-128-6__v06.png",
+  "name": "redmi-redmi-17-128-6__v06",
+  "products": [
+   "Redmi Redmi 17 128/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 128/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-256-6__v01.png",
+  "name": "redmi-redmi-17-256-6__v01",
+  "products": [
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-256-6__v02.png",
+  "name": "redmi-redmi-17-256-6__v02",
+  "products": [
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-256-6__v03.png",
+  "name": "redmi-redmi-17-256-6__v03",
+  "products": [
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-256-6__v04.png",
+  "name": "redmi-redmi-17-256-6__v04",
+  "products": [
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-256-6__v05.png",
+  "name": "redmi-redmi-17-256-6__v05",
+  "products": [
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-256-6__v06.png",
+  "name": "redmi-redmi-17-256-6__v06",
+  "products": [
+   "Redmi Redmi 17 256/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.500 Mts"
+  ],
+  "group_size": 1
+ }
+]
