@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v01.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v01",
+  "products": [
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 256/8",
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v02.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v02",
+  "products": [
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 256/8",
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v03.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v03",
+  "products": [
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 256/8",
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v04.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v04",
+  "products": [
+   "Redmi NOTE 14 256/8",
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v05.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v05",
+  "products": [
+   "Redmi NOTE 14 256/8",
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v06.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v06",
+  "products": [
+   "Redmi NOTE 14 256/8",
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v07.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v07",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512",
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v08.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v08",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512",
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v09.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__redmi-note-14-pro-12-512__v09",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512",
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__v01.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__v01",
+  "products": [
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__v02.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__v02",
+  "products": [
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__v03.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__v03",
+  "products": [
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__v04.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__v04",
+  "products": [
+   "Redmi NOTE 14 256/8",
+   "Redmi Redmi 17 256/8"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__v05.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__v05",
+  "products": [
+   "Redmi NOTE 14 256/8",
+   "Redmi Redmi 17 256/8"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-256-8__v06.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-256-8__v06",
+  "products": [
+   "Redmi NOTE 14 256/8",
+   "Redmi Redmi 17 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "17.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-pro-12-512__v01.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-pro-12-512__v01",
+  "products": [
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-pro-12-512__v02.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-pro-12-512__v02",
+  "products": [
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-pro-12-512__v03.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-pro-12-512__v03",
+  "products": [
+   "Redmi Redmi 17 256/8",
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-pro-12-512__v04.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-pro-12-512__v04",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512",
+   "Redmi Redmi 17 256/8"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-pro-12-512__v05.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-pro-12-512__v05",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512",
+   "Redmi Redmi 17 256/8"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__redmi-note-14-pro-12-512__v06.png",
+  "name": "redmi-redmi-17-256-8__redmi-note-14-pro-12-512__v06",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512",
+   "Redmi Redmi 17 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-256-8__redmi-note-14-pro-12-512__v01.png",
+  "name": "redmi-note-14-256-8__redmi-note-14-pro-12-512__v01",
+  "products": [
+   "Redmi NOTE 14 256/8",
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-256-8__redmi-note-14-pro-12-512__v02.png",
+  "name": "redmi-note-14-256-8__redmi-note-14-pro-12-512__v02",
+  "products": [
+   "Redmi NOTE 14 256/8",
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-256-8__redmi-note-14-pro-12-512__v03.png",
+  "name": "redmi-note-14-256-8__redmi-note-14-pro-12-512__v03",
+  "products": [
+   "Redmi NOTE 14 256/8",
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-256-8__redmi-note-14-pro-12-512__v04.png",
+  "name": "redmi-note-14-256-8__redmi-note-14-pro-12-512__v04",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512",
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-256-8__redmi-note-14-pro-12-512__v05.png",
+  "name": "redmi-note-14-256-8__redmi-note-14-pro-12-512__v05",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512",
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-256-8__redmi-note-14-pro-12-512__v06.png",
+  "name": "redmi-note-14-256-8__redmi-note-14-pro-12-512__v06",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512",
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 256/8",
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts",
+   "26.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__v01.png",
+  "name": "redmi-redmi-17-256-8__v01",
+  "products": [
+   "Redmi Redmi 17 256/8"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__v02.png",
+  "name": "redmi-redmi-17-256-8__v02",
+  "products": [
+   "Redmi Redmi 17 256/8"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__v03.png",
+  "name": "redmi-redmi-17-256-8__v03",
+  "products": [
+   "Redmi Redmi 17 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__v04.png",
+  "name": "redmi-redmi-17-256-8__v04",
+  "products": [
+   "Redmi Redmi 17 256/8"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__v05.png",
+  "name": "redmi-redmi-17-256-8__v05",
+  "products": [
+   "Redmi Redmi 17 256/8"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-redmi-17-256-8__v06.png",
+  "name": "redmi-redmi-17-256-8__v06",
+  "products": [
+   "Redmi Redmi 17 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Redmi 17 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "20.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-256-8__v01.png",
+  "name": "redmi-note-14-256-8__v01",
+  "products": [
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-256-8__v02.png",
+  "name": "redmi-note-14-256-8__v02",
+  "products": [
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-256-8__v03.png",
+  "name": "redmi-note-14-256-8__v03",
+  "products": [
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-256-8__v04.png",
+  "name": "redmi-note-14-256-8__v04",
+  "products": [
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-256-8__v05.png",
+  "name": "redmi-note-14-256-8__v05",
+  "products": [
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-256-8__v06.png",
+  "name": "redmi-note-14-256-8__v06",
+  "products": [
+   "Redmi NOTE 14 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-pro-12-512__v01.png",
+  "name": "redmi-note-14-pro-12-512__v01",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "26.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-pro-12-512__v02.png",
+  "name": "redmi-note-14-pro-12-512__v02",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "26.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-pro-12-512__v03.png",
+  "name": "redmi-note-14-pro-12-512__v03",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "26.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-pro-12-512__v04.png",
+  "name": "redmi-note-14-pro-12-512__v04",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "26.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-pro-12-512__v05.png",
+  "name": "redmi-note-14-pro-12-512__v05",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "26.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-pro-12-512__v06.png",
+  "name": "redmi-note-14-pro-12-512__v06",
+  "products": [
+   "Redmi NOTE 14 PRO 12/512"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO 12/512"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "26.500 Mts"
+  ],
+  "group_size": 1
+ }
+]
