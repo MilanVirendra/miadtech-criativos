@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v01.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v01",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 128/6",
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v02.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v02",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 128/6",
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v03.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v03",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 128/6",
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v04.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v04",
+  "products": [
+   "Redmi NOTE 15 128/6",
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v05.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v05",
+  "products": [
+   "Redmi NOTE 15 128/6",
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v06.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v06",
+  "products": [
+   "Redmi NOTE 15 128/6",
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v07.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v07",
+  "products": [
+   "Redmi NOTE 15 256/8",
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v08.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v08",
+  "products": [
+   "Redmi NOTE 15 256/8",
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v09.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__redmi-note-15-256-8__v09",
+  "products": [
+   "Redmi NOTE 15 256/8",
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__v01.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__v01",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__v02.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__v02",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__v03.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__v03",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__v04.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__v04",
+  "products": [
+   "Redmi NOTE 15 128/6",
+   "Redmi NOTE 14 PRO PLUS 512/8"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__v05.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__v05",
+  "products": [
+   "Redmi NOTE 15 128/6",
+   "Redmi NOTE 14 PRO PLUS 512/8"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__v06.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-128-6__v06",
+  "products": [
+   "Redmi NOTE 15 128/6",
+   "Redmi NOTE 14 PRO PLUS 512/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 128/6"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "18.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-256-8__v01.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-256-8__v01",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-256-8__v02.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-256-8__v02",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-256-8__v03.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-256-8__v03",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8",
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-256-8__v04.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-256-8__v04",
+  "products": [
+   "Redmi NOTE 15 256/8",
+   "Redmi NOTE 14 PRO PLUS 512/8"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-256-8__v05.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-256-8__v05",
+  "products": [
+   "Redmi NOTE 15 256/8",
+   "Redmi NOTE 14 PRO PLUS 512/8"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__redmi-note-15-256-8__v06.png",
+  "name": "redmi-note-14-pro-plus-512-8__redmi-note-15-256-8__v06",
+  "products": [
+   "Redmi NOTE 15 256/8",
+   "Redmi NOTE 14 PRO PLUS 512/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-128-6__redmi-note-15-256-8__v01.png",
+  "name": "redmi-note-15-128-6__redmi-note-15-256-8__v01",
+  "products": [
+   "Redmi NOTE 15 128/6",
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-128-6__redmi-note-15-256-8__v02.png",
+  "name": "redmi-note-15-128-6__redmi-note-15-256-8__v02",
+  "products": [
+   "Redmi NOTE 15 128/6",
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-128-6__redmi-note-15-256-8__v03.png",
+  "name": "redmi-note-15-128-6__redmi-note-15-256-8__v03",
+  "products": [
+   "Redmi NOTE 15 128/6",
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-128-6__redmi-note-15-256-8__v04.png",
+  "name": "redmi-note-15-128-6__redmi-note-15-256-8__v04",
+  "products": [
+   "Redmi NOTE 15 256/8",
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-128-6__redmi-note-15-256-8__v05.png",
+  "name": "redmi-note-15-128-6__redmi-note-15-256-8__v05",
+  "products": [
+   "Redmi NOTE 15 256/8",
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-128-6__redmi-note-15-256-8__v06.png",
+  "name": "redmi-note-15-128-6__redmi-note-15-256-8__v06",
+  "products": [
+   "Redmi NOTE 15 256/8",
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 128/6",
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Redmi"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "21.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__v01.png",
+  "name": "redmi-note-14-pro-plus-512-8__v01",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__v02.png",
+  "name": "redmi-note-14-pro-plus-512-8__v02",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__v03.png",
+  "name": "redmi-note-14-pro-plus-512-8__v03",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__v04.png",
+  "name": "redmi-note-14-pro-plus-512-8__v04",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__v05.png",
+  "name": "redmi-note-14-pro-plus-512-8__v05",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-14-pro-plus-512-8__v06.png",
+  "name": "redmi-note-14-pro-plus-512-8__v06",
+  "products": [
+   "Redmi NOTE 14 PRO PLUS 512/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 14 PRO PLUS 512/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "33.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-128-6__v01.png",
+  "name": "redmi-note-15-128-6__v01",
+  "products": [
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 128/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-128-6__v02.png",
+  "name": "redmi-note-15-128-6__v02",
+  "products": [
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 128/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-128-6__v03.png",
+  "name": "redmi-note-15-128-6__v03",
+  "products": [
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 128/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-128-6__v04.png",
+  "name": "redmi-note-15-128-6__v04",
+  "products": [
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 128/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-128-6__v05.png",
+  "name": "redmi-note-15-128-6__v05",
+  "products": [
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 128/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-128-6__v06.png",
+  "name": "redmi-note-15-128-6__v06",
+  "products": [
+   "Redmi NOTE 15 128/6"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 128/6"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-256-8__v01.png",
+  "name": "redmi-note-15-256-8__v01",
+  "products": [
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "21.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-256-8__v02.png",
+  "name": "redmi-note-15-256-8__v02",
+  "products": [
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "21.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-256-8__v03.png",
+  "name": "redmi-note-15-256-8__v03",
+  "products": [
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "21.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-256-8__v04.png",
+  "name": "redmi-note-15-256-8__v04",
+  "products": [
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "21.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-256-8__v05.png",
+  "name": "redmi-note-15-256-8__v05",
+  "products": [
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "21.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-256-8__v06.png",
+  "name": "redmi-note-15-256-8__v06",
+  "products": [
+   "Redmi NOTE 15 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 256/8"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "21.000 Mts"
+  ],
+  "group_size": 1
+ }
+]
