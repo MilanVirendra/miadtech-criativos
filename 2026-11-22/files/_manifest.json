@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v01.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v01",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix HOT 70 256gb",
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v02.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v02",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix HOT 70 256gb",
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v03.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v03",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix HOT 70 256gb",
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v04.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v04",
+  "products": [
+   "Infinix HOT 70 256gb",
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v05.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v05",
+  "products": [
+   "Infinix HOT 70 256gb",
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v06.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v06",
+  "products": [
+   "Infinix HOT 70 256gb",
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v07.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v07",
+  "products": [
+   "Infinix NOTE 50 256/8",
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v08.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v08",
+  "products": [
+   "Infinix NOTE 50 256/8",
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v09.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__infinix-note-50-256-8__v09",
+  "products": [
+   "Infinix NOTE 50 256/8",
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__v01.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__v01",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__v02.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__v02",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__v03.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__v03",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__v04.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__v04",
+  "products": [
+   "Infinix HOT 70 256gb",
+   "Redmi NOTE 15 PRO + 512/ 12"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__v05.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__v05",
+  "products": [
+   "Infinix HOT 70 256gb",
+   "Redmi NOTE 15 PRO + 512/ 12"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__v06.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-hot-70-256gb__v06",
+  "products": [
+   "Infinix HOT 70 256gb",
+   "Redmi NOTE 15 PRO + 512/ 12"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "HOT 70 256gb"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "17.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-note-50-256-8__v01.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-note-50-256-8__v01",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-note-50-256-8__v02.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-note-50-256-8__v02",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-note-50-256-8__v03.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-note-50-256-8__v03",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12",
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-note-50-256-8__v04.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-note-50-256-8__v04",
+  "products": [
+   "Infinix NOTE 50 256/8",
+   "Redmi NOTE 15 PRO + 512/ 12"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-note-50-256-8__v05.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-note-50-256-8__v05",
+  "products": [
+   "Infinix NOTE 50 256/8",
+   "Redmi NOTE 15 PRO + 512/ 12"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__infinix-note-50-256-8__v06.png",
+  "name": "redmi-note-15-pro-plus-512-12__infinix-note-50-256-8__v06",
+  "products": [
+   "Infinix NOTE 50 256/8",
+   "Redmi NOTE 15 PRO + 512/ 12"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Redmi",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/infinix-hot-70-256gb__infinix-note-50-256-8__v01.png",
+  "name": "infinix-hot-70-256gb__infinix-note-50-256-8__v01",
+  "products": [
+   "Infinix HOT 70 256gb",
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/infinix-hot-70-256gb__infinix-note-50-256-8__v02.png",
+  "name": "infinix-hot-70-256gb__infinix-note-50-256-8__v02",
+  "products": [
+   "Infinix HOT 70 256gb",
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/infinix-hot-70-256gb__infinix-note-50-256-8__v03.png",
+  "name": "infinix-hot-70-256gb__infinix-note-50-256-8__v03",
+  "products": [
+   "Infinix HOT 70 256gb",
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/infinix-hot-70-256gb__infinix-note-50-256-8__v04.png",
+  "name": "infinix-hot-70-256gb__infinix-note-50-256-8__v04",
+  "products": [
+   "Infinix NOTE 50 256/8",
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/infinix-hot-70-256gb__infinix-note-50-256-8__v05.png",
+  "name": "infinix-hot-70-256gb__infinix-note-50-256-8__v05",
+  "products": [
+   "Infinix NOTE 50 256/8",
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/infinix-hot-70-256gb__infinix-note-50-256-8__v06.png",
+  "name": "infinix-hot-70-256gb__infinix-note-50-256-8__v06",
+  "products": [
+   "Infinix NOTE 50 256/8",
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HOT 70 256gb",
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Infinix",
+   "Infinix"
+  ],
+  "types": [
+   "PHONE",
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts",
+   "18.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__v01.png",
+  "name": "redmi-note-15-pro-plus-512-12__v01",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__v02.png",
+  "name": "redmi-note-15-pro-plus-512-12__v02",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__v03.png",
+  "name": "redmi-note-15-pro-plus-512-12__v03",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__v04.png",
+  "name": "redmi-note-15-pro-plus-512-12__v04",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__v05.png",
+  "name": "redmi-note-15-pro-plus-512-12__v05",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/redmi-note-15-pro-plus-512-12__v06.png",
+  "name": "redmi-note-15-pro-plus-512-12__v06",
+  "products": [
+   "Redmi NOTE 15 PRO + 512/ 12"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 15 PRO + 512/ 12"
+  ],
+  "brands": [
+   "Redmi"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "36.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-hot-70-256gb__v01.png",
+  "name": "infinix-hot-70-256gb__v01",
+  "products": [
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HOT 70 256gb"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-hot-70-256gb__v02.png",
+  "name": "infinix-hot-70-256gb__v02",
+  "products": [
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HOT 70 256gb"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-hot-70-256gb__v03.png",
+  "name": "infinix-hot-70-256gb__v03",
+  "products": [
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HOT 70 256gb"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-hot-70-256gb__v04.png",
+  "name": "infinix-hot-70-256gb__v04",
+  "products": [
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HOT 70 256gb"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-hot-70-256gb__v05.png",
+  "name": "infinix-hot-70-256gb__v05",
+  "products": [
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HOT 70 256gb"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-hot-70-256gb__v06.png",
+  "name": "infinix-hot-70-256gb__v06",
+  "products": [
+   "Infinix HOT 70 256gb"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "HOT 70 256gb"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "17.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-note-50-256-8__v01.png",
+  "name": "infinix-note-50-256-8__v01",
+  "products": [
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-note-50-256-8__v02.png",
+  "name": "infinix-note-50-256-8__v02",
+  "products": [
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-note-50-256-8__v03.png",
+  "name": "infinix-note-50-256-8__v03",
+  "products": [
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-note-50-256-8__v04.png",
+  "name": "infinix-note-50-256-8__v04",
+  "products": [
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-note-50-256-8__v05.png",
+  "name": "infinix-note-50-256-8__v05",
+  "products": [
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/infinix-note-50-256-8__v06.png",
+  "name": "infinix-note-50-256-8__v06",
+  "products": [
+   "Infinix NOTE 50 256/8"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NOTE 50 256/8"
+  ],
+  "brands": [
+   "Infinix"
+  ],
+  "types": [
+   "PHONE"
+  ],
+  "prices": [
+   "18.500 Mts"
+  ],
+  "group_size": 1
+ }
+]
