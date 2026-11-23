@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/epson-w01__benq-mx560__philips-npx110__v01.png",
+  "name": "epson-w01__benq-mx560__philips-npx110__v01",
+  "products": [
+   "Epson W01",
+   "BenQ MX560",
+   "Philips NPX110"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__philips-npx110__v02.png",
+  "name": "epson-w01__benq-mx560__philips-npx110__v02",
+  "products": [
+   "Epson W01",
+   "BenQ MX560",
+   "Philips NPX110"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__philips-npx110__v03.png",
+  "name": "epson-w01__benq-mx560__philips-npx110__v03",
+  "products": [
+   "Epson W01",
+   "BenQ MX560",
+   "Philips NPX110"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__philips-npx110__v04.png",
+  "name": "epson-w01__benq-mx560__philips-npx110__v04",
+  "products": [
+   "BenQ MX560",
+   "Epson W01",
+   "Philips NPX110"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__philips-npx110__v05.png",
+  "name": "epson-w01__benq-mx560__philips-npx110__v05",
+  "products": [
+   "BenQ MX560",
+   "Epson W01",
+   "Philips NPX110"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__philips-npx110__v06.png",
+  "name": "epson-w01__benq-mx560__philips-npx110__v06",
+  "products": [
+   "BenQ MX560",
+   "Epson W01",
+   "Philips NPX110"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__philips-npx110__v07.png",
+  "name": "epson-w01__benq-mx560__philips-npx110__v07",
+  "products": [
+   "Philips NPX110",
+   "Epson W01",
+   "BenQ MX560"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__philips-npx110__v08.png",
+  "name": "epson-w01__benq-mx560__philips-npx110__v08",
+  "products": [
+   "Philips NPX110",
+   "Epson W01",
+   "BenQ MX560"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__philips-npx110__v09.png",
+  "name": "epson-w01__benq-mx560__philips-npx110__v09",
+  "products": [
+   "Philips NPX110",
+   "Epson W01",
+   "BenQ MX560"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__v01.png",
+  "name": "epson-w01__benq-mx560__v01",
+  "products": [
+   "Epson W01",
+   "BenQ MX560"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__v02.png",
+  "name": "epson-w01__benq-mx560__v02",
+  "products": [
+   "Epson W01",
+   "BenQ MX560"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__v03.png",
+  "name": "epson-w01__benq-mx560__v03",
+  "products": [
+   "Epson W01",
+   "BenQ MX560"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__v04.png",
+  "name": "epson-w01__benq-mx560__v04",
+  "products": [
+   "BenQ MX560",
+   "Epson W01"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__v05.png",
+  "name": "epson-w01__benq-mx560__v05",
+  "products": [
+   "BenQ MX560",
+   "Epson W01"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/epson-w01__benq-mx560__v06.png",
+  "name": "epson-w01__benq-mx560__v06",
+  "products": [
+   "BenQ MX560",
+   "Epson W01"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "MX560"
+  ],
+  "brands": [
+   "Epson",
+   "BenQ"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "30.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/epson-w01__philips-npx110__v01.png",
+  "name": "epson-w01__philips-npx110__v01",
+  "products": [
+   "Epson W01",
+   "Philips NPX110"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/epson-w01__philips-npx110__v02.png",
+  "name": "epson-w01__philips-npx110__v02",
+  "products": [
+   "Epson W01",
+   "Philips NPX110"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/epson-w01__philips-npx110__v03.png",
+  "name": "epson-w01__philips-npx110__v03",
+  "products": [
+   "Epson W01",
+   "Philips NPX110"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/epson-w01__philips-npx110__v04.png",
+  "name": "epson-w01__philips-npx110__v04",
+  "products": [
+   "Philips NPX110",
+   "Epson W01"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/epson-w01__philips-npx110__v05.png",
+  "name": "epson-w01__philips-npx110__v05",
+  "products": [
+   "Philips NPX110",
+   "Epson W01"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/epson-w01__philips-npx110__v06.png",
+  "name": "epson-w01__philips-npx110__v06",
+  "products": [
+   "Philips NPX110",
+   "Epson W01"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01",
+   "NPX110"
+  ],
+  "brands": [
+   "Epson",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/benq-mx560__philips-npx110__v01.png",
+  "name": "benq-mx560__philips-npx110__v01",
+  "products": [
+   "BenQ MX560",
+   "Philips NPX110"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/benq-mx560__philips-npx110__v02.png",
+  "name": "benq-mx560__philips-npx110__v02",
+  "products": [
+   "BenQ MX560",
+   "Philips NPX110"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/benq-mx560__philips-npx110__v03.png",
+  "name": "benq-mx560__philips-npx110__v03",
+  "products": [
+   "BenQ MX560",
+   "Philips NPX110"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/benq-mx560__philips-npx110__v04.png",
+  "name": "benq-mx560__philips-npx110__v04",
+  "products": [
+   "Philips NPX110",
+   "BenQ MX560"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/benq-mx560__philips-npx110__v05.png",
+  "name": "benq-mx560__philips-npx110__v05",
+  "products": [
+   "Philips NPX110",
+   "BenQ MX560"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/benq-mx560__philips-npx110__v06.png",
+  "name": "benq-mx560__philips-npx110__v06",
+  "products": [
+   "Philips NPX110",
+   "BenQ MX560"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "MX560",
+   "NPX110"
+  ],
+  "brands": [
+   "BenQ",
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR",
+   "PROJECTOR"
+  ],
+  "prices": [
+   "30.000 Mts",
+   "14.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/epson-w01__v01.png",
+  "name": "epson-w01__v01",
+  "products": [
+   "Epson W01"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01"
+  ],
+  "brands": [
+   "Epson"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/epson-w01__v02.png",
+  "name": "epson-w01__v02",
+  "products": [
+   "Epson W01"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01"
+  ],
+  "brands": [
+   "Epson"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/epson-w01__v03.png",
+  "name": "epson-w01__v03",
+  "products": [
+   "Epson W01"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01"
+  ],
+  "brands": [
+   "Epson"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/epson-w01__v04.png",
+  "name": "epson-w01__v04",
+  "products": [
+   "Epson W01"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01"
+  ],
+  "brands": [
+   "Epson"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/epson-w01__v05.png",
+  "name": "epson-w01__v05",
+  "products": [
+   "Epson W01"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01"
+  ],
+  "brands": [
+   "Epson"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/epson-w01__v06.png",
+  "name": "epson-w01__v06",
+  "products": [
+   "Epson W01"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "W01"
+  ],
+  "brands": [
+   "Epson"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "32.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/benq-mx560__v01.png",
+  "name": "benq-mx560__v01",
+  "products": [
+   "BenQ MX560"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "MX560"
+  ],
+  "brands": [
+   "BenQ"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "30.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/benq-mx560__v02.png",
+  "name": "benq-mx560__v02",
+  "products": [
+   "BenQ MX560"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "MX560"
+  ],
+  "brands": [
+   "BenQ"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "30.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/benq-mx560__v03.png",
+  "name": "benq-mx560__v03",
+  "products": [
+   "BenQ MX560"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "MX560"
+  ],
+  "brands": [
+   "BenQ"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "30.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/benq-mx560__v04.png",
+  "name": "benq-mx560__v04",
+  "products": [
+   "BenQ MX560"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "MX560"
+  ],
+  "brands": [
+   "BenQ"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "30.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/benq-mx560__v05.png",
+  "name": "benq-mx560__v05",
+  "products": [
+   "BenQ MX560"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "MX560"
+  ],
+  "brands": [
+   "BenQ"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "30.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/benq-mx560__v06.png",
+  "name": "benq-mx560__v06",
+  "products": [
+   "BenQ MX560"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "MX560"
+  ],
+  "brands": [
+   "BenQ"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "30.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/philips-npx110__v01.png",
+  "name": "philips-npx110__v01",
+  "products": [
+   "Philips NPX110"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NPX110"
+  ],
+  "brands": [
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "14.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/philips-npx110__v02.png",
+  "name": "philips-npx110__v02",
+  "products": [
+   "Philips NPX110"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NPX110"
+  ],
+  "brands": [
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "14.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/philips-npx110__v03.png",
+  "name": "philips-npx110__v03",
+  "products": [
+   "Philips NPX110"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NPX110"
+  ],
+  "brands": [
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "14.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/philips-npx110__v04.png",
+  "name": "philips-npx110__v04",
+  "products": [
+   "Philips NPX110"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NPX110"
+  ],
+  "brands": [
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "14.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/philips-npx110__v05.png",
+  "name": "philips-npx110__v05",
+  "products": [
+   "Philips NPX110"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NPX110"
+  ],
+  "brands": [
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "14.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/philips-npx110__v06.png",
+  "name": "philips-npx110__v06",
+  "products": [
+   "Philips NPX110"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "NPX110"
+  ],
+  "brands": [
+   "Philips"
+  ],
+  "types": [
+   "PROJECTOR"
+  ],
+  "prices": [
+   "14.000 Mts"
+  ],
+  "group_size": 1
+ }
+]
