@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__anc-ups-1250va__v01.png",
+  "name": "anc-ups-725va__anc-ups-850va__anc-ups-1250va__v01",
+  "products": [
+   "ANC UPS 725VA",
+   "ANC UPS 850VA",
+   "ANC UPS 1250VA"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__anc-ups-1250va__v02.png",
+  "name": "anc-ups-725va__anc-ups-850va__anc-ups-1250va__v02",
+  "products": [
+   "ANC UPS 725VA",
+   "ANC UPS 850VA",
+   "ANC UPS 1250VA"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__anc-ups-1250va__v03.png",
+  "name": "anc-ups-725va__anc-ups-850va__anc-ups-1250va__v03",
+  "products": [
+   "ANC UPS 725VA",
+   "ANC UPS 850VA",
+   "ANC UPS 1250VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__anc-ups-1250va__v04.png",
+  "name": "anc-ups-725va__anc-ups-850va__anc-ups-1250va__v04",
+  "products": [
+   "ANC UPS 850VA",
+   "ANC UPS 725VA",
+   "ANC UPS 1250VA"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__anc-ups-1250va__v05.png",
+  "name": "anc-ups-725va__anc-ups-850va__anc-ups-1250va__v05",
+  "products": [
+   "ANC UPS 850VA",
+   "ANC UPS 725VA",
+   "ANC UPS 1250VA"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__anc-ups-1250va__v06.png",
+  "name": "anc-ups-725va__anc-ups-850va__anc-ups-1250va__v06",
+  "products": [
+   "ANC UPS 850VA",
+   "ANC UPS 725VA",
+   "ANC UPS 1250VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__anc-ups-1250va__v07.png",
+  "name": "anc-ups-725va__anc-ups-850va__anc-ups-1250va__v07",
+  "products": [
+   "ANC UPS 1250VA",
+   "ANC UPS 725VA",
+   "ANC UPS 850VA"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__anc-ups-1250va__v08.png",
+  "name": "anc-ups-725va__anc-ups-850va__anc-ups-1250va__v08",
+  "products": [
+   "ANC UPS 1250VA",
+   "ANC UPS 725VA",
+   "ANC UPS 850VA"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__anc-ups-1250va__v09.png",
+  "name": "anc-ups-725va__anc-ups-850va__anc-ups-1250va__v09",
+  "products": [
+   "ANC UPS 1250VA",
+   "ANC UPS 725VA",
+   "ANC UPS 850VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__v01.png",
+  "name": "anc-ups-725va__anc-ups-850va__v01",
+  "products": [
+   "ANC UPS 725VA",
+   "ANC UPS 850VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__v02.png",
+  "name": "anc-ups-725va__anc-ups-850va__v02",
+  "products": [
+   "ANC UPS 725VA",
+   "ANC UPS 850VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__v03.png",
+  "name": "anc-ups-725va__anc-ups-850va__v03",
+  "products": [
+   "ANC UPS 725VA",
+   "ANC UPS 850VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__v04.png",
+  "name": "anc-ups-725va__anc-ups-850va__v04",
+  "products": [
+   "ANC UPS 850VA",
+   "ANC UPS 725VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__v05.png",
+  "name": "anc-ups-725va__anc-ups-850va__v05",
+  "products": [
+   "ANC UPS 850VA",
+   "ANC UPS 725VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-850va__v06.png",
+  "name": "anc-ups-725va__anc-ups-850va__v06",
+  "products": [
+   "ANC UPS 850VA",
+   "ANC UPS 725VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 850VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "6.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-1250va__v01.png",
+  "name": "anc-ups-725va__anc-ups-1250va__v01",
+  "products": [
+   "ANC UPS 725VA",
+   "ANC UPS 1250VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-1250va__v02.png",
+  "name": "anc-ups-725va__anc-ups-1250va__v02",
+  "products": [
+   "ANC UPS 725VA",
+   "ANC UPS 1250VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-1250va__v03.png",
+  "name": "anc-ups-725va__anc-ups-1250va__v03",
+  "products": [
+   "ANC UPS 725VA",
+   "ANC UPS 1250VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-1250va__v04.png",
+  "name": "anc-ups-725va__anc-ups-1250va__v04",
+  "products": [
+   "ANC UPS 1250VA",
+   "ANC UPS 725VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-1250va__v05.png",
+  "name": "anc-ups-725va__anc-ups-1250va__v05",
+  "products": [
+   "ANC UPS 1250VA",
+   "ANC UPS 725VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-725va__anc-ups-1250va__v06.png",
+  "name": "anc-ups-725va__anc-ups-1250va__v06",
+  "products": [
+   "ANC UPS 1250VA",
+   "ANC UPS 725VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-850va__anc-ups-1250va__v01.png",
+  "name": "anc-ups-850va__anc-ups-1250va__v01",
+  "products": [
+   "ANC UPS 850VA",
+   "ANC UPS 1250VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-850va__anc-ups-1250va__v02.png",
+  "name": "anc-ups-850va__anc-ups-1250va__v02",
+  "products": [
+   "ANC UPS 850VA",
+   "ANC UPS 1250VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-850va__anc-ups-1250va__v03.png",
+  "name": "anc-ups-850va__anc-ups-1250va__v03",
+  "products": [
+   "ANC UPS 850VA",
+   "ANC UPS 1250VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-850va__anc-ups-1250va__v04.png",
+  "name": "anc-ups-850va__anc-ups-1250va__v04",
+  "products": [
+   "ANC UPS 1250VA",
+   "ANC UPS 850VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-850va__anc-ups-1250va__v05.png",
+  "name": "anc-ups-850va__anc-ups-1250va__v05",
+  "products": [
+   "ANC UPS 1250VA",
+   "ANC UPS 850VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-850va__anc-ups-1250va__v06.png",
+  "name": "anc-ups-850va__anc-ups-1250va__v06",
+  "products": [
+   "ANC UPS 1250VA",
+   "ANC UPS 850VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 850VA",
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "6.000 Mts",
+   "9.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-725va__v01.png",
+  "name": "anc-ups-725va__v01",
+  "products": [
+   "ANC UPS 725VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-725va__v02.png",
+  "name": "anc-ups-725va__v02",
+  "products": [
+   "ANC UPS 725VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-725va__v03.png",
+  "name": "anc-ups-725va__v03",
+  "products": [
+   "ANC UPS 725VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-725va__v04.png",
+  "name": "anc-ups-725va__v04",
+  "products": [
+   "ANC UPS 725VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-725va__v05.png",
+  "name": "anc-ups-725va__v05",
+  "products": [
+   "ANC UPS 725VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-725va__v06.png",
+  "name": "anc-ups-725va__v06",
+  "products": [
+   "ANC UPS 725VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 725VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "5.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-850va__v01.png",
+  "name": "anc-ups-850va__v01",
+  "products": [
+   "ANC UPS 850VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 850VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "6.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-850va__v02.png",
+  "name": "anc-ups-850va__v02",
+  "products": [
+   "ANC UPS 850VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 850VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "6.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-850va__v03.png",
+  "name": "anc-ups-850va__v03",
+  "products": [
+   "ANC UPS 850VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 850VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "6.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-850va__v04.png",
+  "name": "anc-ups-850va__v04",
+  "products": [
+   "ANC UPS 850VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 850VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "6.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-850va__v05.png",
+  "name": "anc-ups-850va__v05",
+  "products": [
+   "ANC UPS 850VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 850VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "6.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-850va__v06.png",
+  "name": "anc-ups-850va__v06",
+  "products": [
+   "ANC UPS 850VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 850VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "6.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-1250va__v01.png",
+  "name": "anc-ups-1250va__v01",
+  "products": [
+   "ANC UPS 1250VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "9.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-1250va__v02.png",
+  "name": "anc-ups-1250va__v02",
+  "products": [
+   "ANC UPS 1250VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "9.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-1250va__v03.png",
+  "name": "anc-ups-1250va__v03",
+  "products": [
+   "ANC UPS 1250VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "9.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-1250va__v04.png",
+  "name": "anc-ups-1250va__v04",
+  "products": [
+   "ANC UPS 1250VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "9.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-1250va__v05.png",
+  "name": "anc-ups-1250va__v05",
+  "products": [
+   "ANC UPS 1250VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "9.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-1250va__v06.png",
+  "name": "anc-ups-1250va__v06",
+  "products": [
+   "ANC UPS 1250VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1250VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "9.500 Mts"
+  ],
+  "group_size": 1
+ }
+]
