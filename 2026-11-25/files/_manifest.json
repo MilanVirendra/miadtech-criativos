@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v01.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v01",
+  "products": [
+   "ANC UPS 1500VA",
+   "ANC UPS 3000VA",
+   "APC UPS 650VA"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v02.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v02",
+  "products": [
+   "ANC UPS 1500VA",
+   "ANC UPS 3000VA",
+   "APC UPS 650VA"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v03.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v03",
+  "products": [
+   "ANC UPS 1500VA",
+   "ANC UPS 3000VA",
+   "APC UPS 650VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v04.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v04",
+  "products": [
+   "ANC UPS 3000VA",
+   "ANC UPS 1500VA",
+   "APC UPS 650VA"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v05.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v05",
+  "products": [
+   "ANC UPS 3000VA",
+   "ANC UPS 1500VA",
+   "APC UPS 650VA"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v06.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v06",
+  "products": [
+   "ANC UPS 3000VA",
+   "ANC UPS 1500VA",
+   "APC UPS 650VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v07.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v07",
+  "products": [
+   "APC UPS 650VA",
+   "ANC UPS 1500VA",
+   "ANC UPS 3000VA"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v08.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v08",
+  "products": [
+   "APC UPS 650VA",
+   "ANC UPS 1500VA",
+   "ANC UPS 3000VA"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v09.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__apc-ups-650va__v09",
+  "products": [
+   "APC UPS 650VA",
+   "ANC UPS 1500VA",
+   "ANC UPS 3000VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__v01.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__v01",
+  "products": [
+   "ANC UPS 1500VA",
+   "ANC UPS 3000VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__v02.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__v02",
+  "products": [
+   "ANC UPS 1500VA",
+   "ANC UPS 3000VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__v03.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__v03",
+  "products": [
+   "ANC UPS 1500VA",
+   "ANC UPS 3000VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__v04.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__v04",
+  "products": [
+   "ANC UPS 3000VA",
+   "ANC UPS 1500VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__v05.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__v05",
+  "products": [
+   "ANC UPS 3000VA",
+   "ANC UPS 1500VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-1500va__anc-ups-3000va__v06.png",
+  "name": "anc-ups-1500va__anc-ups-3000va__v06",
+  "products": [
+   "ANC UPS 3000VA",
+   "ANC UPS 1500VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 3000VA"
+  ],
+  "brands": [
+   "ANC",
+   "ANC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "16.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-1500va__apc-ups-650va__v01.png",
+  "name": "anc-ups-1500va__apc-ups-650va__v01",
+  "products": [
+   "ANC UPS 1500VA",
+   "APC UPS 650VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-1500va__apc-ups-650va__v02.png",
+  "name": "anc-ups-1500va__apc-ups-650va__v02",
+  "products": [
+   "ANC UPS 1500VA",
+   "APC UPS 650VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-1500va__apc-ups-650va__v03.png",
+  "name": "anc-ups-1500va__apc-ups-650va__v03",
+  "products": [
+   "ANC UPS 1500VA",
+   "APC UPS 650VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-1500va__apc-ups-650va__v04.png",
+  "name": "anc-ups-1500va__apc-ups-650va__v04",
+  "products": [
+   "APC UPS 650VA",
+   "ANC UPS 1500VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-1500va__apc-ups-650va__v05.png",
+  "name": "anc-ups-1500va__apc-ups-650va__v05",
+  "products": [
+   "APC UPS 650VA",
+   "ANC UPS 1500VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-1500va__apc-ups-650va__v06.png",
+  "name": "anc-ups-1500va__apc-ups-650va__v06",
+  "products": [
+   "APC UPS 650VA",
+   "ANC UPS 1500VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-3000va__apc-ups-650va__v01.png",
+  "name": "anc-ups-3000va__apc-ups-650va__v01",
+  "products": [
+   "ANC UPS 3000VA",
+   "APC UPS 650VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-3000va__apc-ups-650va__v02.png",
+  "name": "anc-ups-3000va__apc-ups-650va__v02",
+  "products": [
+   "ANC UPS 3000VA",
+   "APC UPS 650VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-3000va__apc-ups-650va__v03.png",
+  "name": "anc-ups-3000va__apc-ups-650va__v03",
+  "products": [
+   "ANC UPS 3000VA",
+   "APC UPS 650VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-3000va__apc-ups-650va__v04.png",
+  "name": "anc-ups-3000va__apc-ups-650va__v04",
+  "products": [
+   "APC UPS 650VA",
+   "ANC UPS 3000VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-3000va__apc-ups-650va__v05.png",
+  "name": "anc-ups-3000va__apc-ups-650va__v05",
+  "products": [
+   "APC UPS 650VA",
+   "ANC UPS 3000VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-3000va__apc-ups-650va__v06.png",
+  "name": "anc-ups-3000va__apc-ups-650va__v06",
+  "products": [
+   "APC UPS 650VA",
+   "ANC UPS 3000VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 3000VA",
+   "UPS 650VA"
+  ],
+  "brands": [
+   "ANC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "16.000 Mts",
+   "8.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/anc-ups-1500va__v01.png",
+  "name": "anc-ups-1500va__v01",
+  "products": [
+   "ANC UPS 1500VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-1500va__v02.png",
+  "name": "anc-ups-1500va__v02",
+  "products": [
+   "ANC UPS 1500VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-1500va__v03.png",
+  "name": "anc-ups-1500va__v03",
+  "products": [
+   "ANC UPS 1500VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-1500va__v04.png",
+  "name": "anc-ups-1500va__v04",
+  "products": [
+   "ANC UPS 1500VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-1500va__v05.png",
+  "name": "anc-ups-1500va__v05",
+  "products": [
+   "ANC UPS 1500VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-1500va__v06.png",
+  "name": "anc-ups-1500va__v06",
+  "products": [
+   "ANC UPS 1500VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1500VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-3000va__v01.png",
+  "name": "anc-ups-3000va__v01",
+  "products": [
+   "ANC UPS 3000VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 3000VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "16.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-3000va__v02.png",
+  "name": "anc-ups-3000va__v02",
+  "products": [
+   "ANC UPS 3000VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 3000VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "16.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-3000va__v03.png",
+  "name": "anc-ups-3000va__v03",
+  "products": [
+   "ANC UPS 3000VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 3000VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "16.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-3000va__v04.png",
+  "name": "anc-ups-3000va__v04",
+  "products": [
+   "ANC UPS 3000VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 3000VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "16.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-3000va__v05.png",
+  "name": "anc-ups-3000va__v05",
+  "products": [
+   "ANC UPS 3000VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 3000VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "16.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/anc-ups-3000va__v06.png",
+  "name": "anc-ups-3000va__v06",
+  "products": [
+   "ANC UPS 3000VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 3000VA"
+  ],
+  "brands": [
+   "ANC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "16.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-650va__v01.png",
+  "name": "apc-ups-650va__v01",
+  "products": [
+   "APC UPS 650VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 650VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "8.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-650va__v02.png",
+  "name": "apc-ups-650va__v02",
+  "products": [
+   "APC UPS 650VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 650VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "8.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-650va__v03.png",
+  "name": "apc-ups-650va__v03",
+  "products": [
+   "APC UPS 650VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 650VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "8.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-650va__v04.png",
+  "name": "apc-ups-650va__v04",
+  "products": [
+   "APC UPS 650VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 650VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "8.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-650va__v05.png",
+  "name": "apc-ups-650va__v05",
+  "products": [
+   "APC UPS 650VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 650VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "8.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-650va__v06.png",
+  "name": "apc-ups-650va__v06",
+  "products": [
+   "APC UPS 650VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 650VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "8.000 Mts"
+  ],
+  "group_size": 1
+ }
+]
