@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v01.png",
+  "name": "apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v01",
+  "products": [
+   "APC UPS 800VA",
+   "APC UPS 1000VA",
+   "APC UPS 1200VA"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v02.png",
+  "name": "apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v02",
+  "products": [
+   "APC UPS 800VA",
+   "APC UPS 1000VA",
+   "APC UPS 1200VA"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v03.png",
+  "name": "apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v03",
+  "products": [
+   "APC UPS 800VA",
+   "APC UPS 1000VA",
+   "APC UPS 1200VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v04.png",
+  "name": "apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v04",
+  "products": [
+   "APC UPS 1000VA",
+   "APC UPS 800VA",
+   "APC UPS 1200VA"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v05.png",
+  "name": "apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v05",
+  "products": [
+   "APC UPS 1000VA",
+   "APC UPS 800VA",
+   "APC UPS 1200VA"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v06.png",
+  "name": "apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v06",
+  "products": [
+   "APC UPS 1000VA",
+   "APC UPS 800VA",
+   "APC UPS 1200VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v07.png",
+  "name": "apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v07",
+  "products": [
+   "APC UPS 1200VA",
+   "APC UPS 800VA",
+   "APC UPS 1000VA"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v08.png",
+  "name": "apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v08",
+  "products": [
+   "APC UPS 1200VA",
+   "APC UPS 800VA",
+   "APC UPS 1000VA"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v09.png",
+  "name": "apc-ups-800va__apc-ups-1000va__apc-ups-1200va__v09",
+  "products": [
+   "APC UPS 1200VA",
+   "APC UPS 800VA",
+   "APC UPS 1000VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__v01.png",
+  "name": "apc-ups-800va__apc-ups-1000va__v01",
+  "products": [
+   "APC UPS 800VA",
+   "APC UPS 1000VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__v02.png",
+  "name": "apc-ups-800va__apc-ups-1000va__v02",
+  "products": [
+   "APC UPS 800VA",
+   "APC UPS 1000VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__v03.png",
+  "name": "apc-ups-800va__apc-ups-1000va__v03",
+  "products": [
+   "APC UPS 800VA",
+   "APC UPS 1000VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__v04.png",
+  "name": "apc-ups-800va__apc-ups-1000va__v04",
+  "products": [
+   "APC UPS 1000VA",
+   "APC UPS 800VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__v05.png",
+  "name": "apc-ups-800va__apc-ups-1000va__v05",
+  "products": [
+   "APC UPS 1000VA",
+   "APC UPS 800VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1000va__v06.png",
+  "name": "apc-ups-800va__apc-ups-1000va__v06",
+  "products": [
+   "APC UPS 1000VA",
+   "APC UPS 800VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1000VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "10.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1200va__v01.png",
+  "name": "apc-ups-800va__apc-ups-1200va__v01",
+  "products": [
+   "APC UPS 800VA",
+   "APC UPS 1200VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1200va__v02.png",
+  "name": "apc-ups-800va__apc-ups-1200va__v02",
+  "products": [
+   "APC UPS 800VA",
+   "APC UPS 1200VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1200va__v03.png",
+  "name": "apc-ups-800va__apc-ups-1200va__v03",
+  "products": [
+   "APC UPS 800VA",
+   "APC UPS 1200VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1200va__v04.png",
+  "name": "apc-ups-800va__apc-ups-1200va__v04",
+  "products": [
+   "APC UPS 1200VA",
+   "APC UPS 800VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1200va__v05.png",
+  "name": "apc-ups-800va__apc-ups-1200va__v05",
+  "products": [
+   "APC UPS 1200VA",
+   "APC UPS 800VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-800va__apc-ups-1200va__v06.png",
+  "name": "apc-ups-800va__apc-ups-1200va__v06",
+  "products": [
+   "APC UPS 1200VA",
+   "APC UPS 800VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-1000va__apc-ups-1200va__v01.png",
+  "name": "apc-ups-1000va__apc-ups-1200va__v01",
+  "products": [
+   "APC UPS 1000VA",
+   "APC UPS 1200VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-1000va__apc-ups-1200va__v02.png",
+  "name": "apc-ups-1000va__apc-ups-1200va__v02",
+  "products": [
+   "APC UPS 1000VA",
+   "APC UPS 1200VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-1000va__apc-ups-1200va__v03.png",
+  "name": "apc-ups-1000va__apc-ups-1200va__v03",
+  "products": [
+   "APC UPS 1000VA",
+   "APC UPS 1200VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-1000va__apc-ups-1200va__v04.png",
+  "name": "apc-ups-1000va__apc-ups-1200va__v04",
+  "products": [
+   "APC UPS 1200VA",
+   "APC UPS 1000VA"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-1000va__apc-ups-1200va__v05.png",
+  "name": "apc-ups-1000va__apc-ups-1200va__v05",
+  "products": [
+   "APC UPS 1200VA",
+   "APC UPS 1000VA"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-1000va__apc-ups-1200va__v06.png",
+  "name": "apc-ups-1000va__apc-ups-1200va__v06",
+  "products": [
+   "APC UPS 1200VA",
+   "APC UPS 1000VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1000VA",
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC",
+   "APC"
+  ],
+  "types": [
+   "UPS",
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts",
+   "14.500 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/apc-ups-800va__v01.png",
+  "name": "apc-ups-800va__v01",
+  "products": [
+   "APC UPS 800VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-800va__v02.png",
+  "name": "apc-ups-800va__v02",
+  "products": [
+   "APC UPS 800VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-800va__v03.png",
+  "name": "apc-ups-800va__v03",
+  "products": [
+   "APC UPS 800VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-800va__v04.png",
+  "name": "apc-ups-800va__v04",
+  "products": [
+   "APC UPS 800VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-800va__v05.png",
+  "name": "apc-ups-800va__v05",
+  "products": [
+   "APC UPS 800VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-800va__v06.png",
+  "name": "apc-ups-800va__v06",
+  "products": [
+   "APC UPS 800VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 800VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "8.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-1000va__v01.png",
+  "name": "apc-ups-1000va__v01",
+  "products": [
+   "APC UPS 1000VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1000VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-1000va__v02.png",
+  "name": "apc-ups-1000va__v02",
+  "products": [
+   "APC UPS 1000VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1000VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-1000va__v03.png",
+  "name": "apc-ups-1000va__v03",
+  "products": [
+   "APC UPS 1000VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1000VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-1000va__v04.png",
+  "name": "apc-ups-1000va__v04",
+  "products": [
+   "APC UPS 1000VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1000VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-1000va__v05.png",
+  "name": "apc-ups-1000va__v05",
+  "products": [
+   "APC UPS 1000VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1000VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-1000va__v06.png",
+  "name": "apc-ups-1000va__v06",
+  "products": [
+   "APC UPS 1000VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1000VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "10.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-1200va__v01.png",
+  "name": "apc-ups-1200va__v01",
+  "products": [
+   "APC UPS 1200VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "14.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-1200va__v02.png",
+  "name": "apc-ups-1200va__v02",
+  "products": [
+   "APC UPS 1200VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "14.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-1200va__v03.png",
+  "name": "apc-ups-1200va__v03",
+  "products": [
+   "APC UPS 1200VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "14.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-1200va__v04.png",
+  "name": "apc-ups-1200va__v04",
+  "products": [
+   "APC UPS 1200VA"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "14.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-1200va__v05.png",
+  "name": "apc-ups-1200va__v05",
+  "products": [
+   "APC UPS 1200VA"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "14.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/apc-ups-1200va__v06.png",
+  "name": "apc-ups-1200va__v06",
+  "products": [
+   "APC UPS 1200VA"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "UPS 1200VA"
+  ],
+  "brands": [
+   "APC"
+  ],
+  "types": [
+   "UPS"
+  ],
+  "prices": [
+   "14.500 Mts"
+  ],
+  "group_size": 1
+ }
+]
