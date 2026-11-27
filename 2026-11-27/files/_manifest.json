@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v01.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v01",
+  "products": [
+   "HP Smart Tank 581",
+   "HP Printer 136A",
+   "HP OfficeJet 9720"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v02.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v02",
+  "products": [
+   "HP Smart Tank 581",
+   "HP Printer 136A",
+   "HP OfficeJet 9720"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v03.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v03",
+  "products": [
+   "HP Smart Tank 581",
+   "HP Printer 136A",
+   "HP OfficeJet 9720"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v04.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v04",
+  "products": [
+   "HP Printer 136A",
+   "HP Smart Tank 581",
+   "HP OfficeJet 9720"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v05.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v05",
+  "products": [
+   "HP Printer 136A",
+   "HP Smart Tank 581",
+   "HP OfficeJet 9720"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v06.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v06",
+  "products": [
+   "HP Printer 136A",
+   "HP Smart Tank 581",
+   "HP OfficeJet 9720"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v07.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v07",
+  "products": [
+   "HP OfficeJet 9720",
+   "HP Smart Tank 581",
+   "HP Printer 136A"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v08.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v08",
+  "products": [
+   "HP OfficeJet 9720",
+   "HP Smart Tank 581",
+   "HP Printer 136A"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v09.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__hp-officejet-9720__v09",
+  "products": [
+   "HP OfficeJet 9720",
+   "HP Smart Tank 581",
+   "HP Printer 136A"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__v01.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__v01",
+  "products": [
+   "HP Smart Tank 581",
+   "HP Printer 136A"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__v02.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__v02",
+  "products": [
+   "HP Smart Tank 581",
+   "HP Printer 136A"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__v03.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__v03",
+  "products": [
+   "HP Smart Tank 581",
+   "HP Printer 136A"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__v04.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__v04",
+  "products": [
+   "HP Printer 136A",
+   "HP Smart Tank 581"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__v05.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__v05",
+  "products": [
+   "HP Printer 136A",
+   "HP Smart Tank 581"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-printer-136a__v06.png",
+  "name": "hp-smart-tank-581__hp-printer-136a__v06",
+  "products": [
+   "HP Printer 136A",
+   "HP Smart Tank 581"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "Printer 136A"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "22.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-officejet-9720__v01.png",
+  "name": "hp-smart-tank-581__hp-officejet-9720__v01",
+  "products": [
+   "HP Smart Tank 581",
+   "HP OfficeJet 9720"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-officejet-9720__v02.png",
+  "name": "hp-smart-tank-581__hp-officejet-9720__v02",
+  "products": [
+   "HP Smart Tank 581",
+   "HP OfficeJet 9720"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-officejet-9720__v03.png",
+  "name": "hp-smart-tank-581__hp-officejet-9720__v03",
+  "products": [
+   "HP Smart Tank 581",
+   "HP OfficeJet 9720"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-officejet-9720__v04.png",
+  "name": "hp-smart-tank-581__hp-officejet-9720__v04",
+  "products": [
+   "HP OfficeJet 9720",
+   "HP Smart Tank 581"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-officejet-9720__v05.png",
+  "name": "hp-smart-tank-581__hp-officejet-9720__v05",
+  "products": [
+   "HP OfficeJet 9720",
+   "HP Smart Tank 581"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-smart-tank-581__hp-officejet-9720__v06.png",
+  "name": "hp-smart-tank-581__hp-officejet-9720__v06",
+  "products": [
+   "HP OfficeJet 9720",
+   "HP Smart Tank 581"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-printer-136a__hp-officejet-9720__v01.png",
+  "name": "hp-printer-136a__hp-officejet-9720__v01",
+  "products": [
+   "HP Printer 136A",
+   "HP OfficeJet 9720"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-printer-136a__hp-officejet-9720__v02.png",
+  "name": "hp-printer-136a__hp-officejet-9720__v02",
+  "products": [
+   "HP Printer 136A",
+   "HP OfficeJet 9720"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-printer-136a__hp-officejet-9720__v03.png",
+  "name": "hp-printer-136a__hp-officejet-9720__v03",
+  "products": [
+   "HP Printer 136A",
+   "HP OfficeJet 9720"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-printer-136a__hp-officejet-9720__v04.png",
+  "name": "hp-printer-136a__hp-officejet-9720__v04",
+  "products": [
+   "HP OfficeJet 9720",
+   "HP Printer 136A"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-printer-136a__hp-officejet-9720__v05.png",
+  "name": "hp-printer-136a__hp-officejet-9720__v05",
+  "products": [
+   "HP OfficeJet 9720",
+   "HP Printer 136A"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-printer-136a__hp-officejet-9720__v06.png",
+  "name": "hp-printer-136a__hp-officejet-9720__v06",
+  "products": [
+   "HP OfficeJet 9720",
+   "HP Printer 136A"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Printer 136A",
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "22.000 Mts",
+   "32.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-smart-tank-581__v01.png",
+  "name": "hp-smart-tank-581__v01",
+  "products": [
+   "HP Smart Tank 581"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-smart-tank-581__v02.png",
+  "name": "hp-smart-tank-581__v02",
+  "products": [
+   "HP Smart Tank 581"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-smart-tank-581__v03.png",
+  "name": "hp-smart-tank-581__v03",
+  "products": [
+   "HP Smart Tank 581"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-smart-tank-581__v04.png",
+  "name": "hp-smart-tank-581__v04",
+  "products": [
+   "HP Smart Tank 581"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-smart-tank-581__v05.png",
+  "name": "hp-smart-tank-581__v05",
+  "products": [
+   "HP Smart Tank 581"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-smart-tank-581__v06.png",
+  "name": "hp-smart-tank-581__v06",
+  "products": [
+   "HP Smart Tank 581"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Smart Tank 581"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "18.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-printer-136a__v01.png",
+  "name": "hp-printer-136a__v01",
+  "products": [
+   "HP Printer 136A"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Printer 136A"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "22.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-printer-136a__v02.png",
+  "name": "hp-printer-136a__v02",
+  "products": [
+   "HP Printer 136A"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Printer 136A"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "22.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-printer-136a__v03.png",
+  "name": "hp-printer-136a__v03",
+  "products": [
+   "HP Printer 136A"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Printer 136A"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "22.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-printer-136a__v04.png",
+  "name": "hp-printer-136a__v04",
+  "products": [
+   "HP Printer 136A"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Printer 136A"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "22.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-printer-136a__v05.png",
+  "name": "hp-printer-136a__v05",
+  "products": [
+   "HP Printer 136A"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Printer 136A"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "22.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-printer-136a__v06.png",
+  "name": "hp-printer-136a__v06",
+  "products": [
+   "HP Printer 136A"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "Printer 136A"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "22.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-officejet-9720__v01.png",
+  "name": "hp-officejet-9720__v01",
+  "products": [
+   "HP OfficeJet 9720"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "32.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-officejet-9720__v02.png",
+  "name": "hp-officejet-9720__v02",
+  "products": [
+   "HP OfficeJet 9720"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "32.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-officejet-9720__v03.png",
+  "name": "hp-officejet-9720__v03",
+  "products": [
+   "HP OfficeJet 9720"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "32.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-officejet-9720__v04.png",
+  "name": "hp-officejet-9720__v04",
+  "products": [
+   "HP OfficeJet 9720"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "32.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-officejet-9720__v05.png",
+  "name": "hp-officejet-9720__v05",
+  "products": [
+   "HP OfficeJet 9720"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "32.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-officejet-9720__v06.png",
+  "name": "hp-officejet-9720__v06",
+  "products": [
+   "HP OfficeJet 9720"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "OfficeJet 9720"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "32.000 Mts"
+  ],
+  "group_size": 1
+ }
+]
