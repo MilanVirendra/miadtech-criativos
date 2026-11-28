@@ -1,0 +1,1262 @@
+[
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v01.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v01",
+  "products": [
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 4103fdw",
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v02.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v02",
+  "products": [
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 4103fdw",
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v03.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v03",
+  "products": [
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 4103fdw",
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v04.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v04",
+  "products": [
+   "HP LaserJet MFP 4103fdw",
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v05.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v05",
+  "products": [
+   "HP LaserJet MFP 4103fdw",
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v06.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v06",
+  "products": [
+   "HP LaserJet MFP 4103fdw",
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v07.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v07",
+  "products": [
+   "HP LaserJet MFP 3303fdn",
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "trio_variants",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v08.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v08",
+  "products": [
+   "HP LaserJet MFP 3303fdn",
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "trio_variants+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v09.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v09",
+  "products": [
+   "HP LaserJet MFP 3303fdn",
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 3
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__v01.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__v01",
+  "products": [
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__v02.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__v02",
+  "products": [
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__v03.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__v03",
+  "products": [
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__v04.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__v04",
+  "products": [
+   "HP LaserJet MFP 4103fdw",
+   "HP LaserJet 179fnw"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__v05.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__v05",
+  "products": [
+   "HP LaserJet MFP 4103fdw",
+   "HP LaserJet 179fnw"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__v06.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-4103fdw__v06",
+  "products": [
+   "HP LaserJet MFP 4103fdw",
+   "HP LaserJet 179fnw"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 4103fdw"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "45.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-3303fdn__v01.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-3303fdn__v01",
+  "products": [
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-3303fdn__v02.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-3303fdn__v02",
+  "products": [
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-3303fdn__v03.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-3303fdn__v03",
+  "products": [
+   "HP LaserJet 179fnw",
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-3303fdn__v04.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-3303fdn__v04",
+  "products": [
+   "HP LaserJet MFP 3303fdn",
+   "HP LaserJet 179fnw"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-3303fdn__v05.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-3303fdn__v05",
+  "products": [
+   "HP LaserJet MFP 3303fdn",
+   "HP LaserJet 179fnw"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__hp-laserjet-mfp-3303fdn__v06.png",
+  "name": "hp-laserjet-179fnw__hp-laserjet-mfp-3303fdn__v06",
+  "products": [
+   "HP LaserJet MFP 3303fdn",
+   "HP LaserJet 179fnw"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v01.png",
+  "name": "hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v01",
+  "products": [
+   "HP LaserJet MFP 4103fdw",
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v02.png",
+  "name": "hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v02",
+  "products": [
+   "HP LaserJet MFP 4103fdw",
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v03.png",
+  "name": "hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v03",
+  "products": [
+   "HP LaserJet MFP 4103fdw",
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v04.png",
+  "name": "hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v04",
+  "products": [
+   "HP LaserJet MFP 3303fdn",
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "duo",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v05.png",
+  "name": "hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v05",
+  "products": [
+   "HP LaserJet MFP 3303fdn",
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "duo+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v06.png",
+  "name": "hp-laserjet-mfp-4103fdw__hp-laserjet-mfp-3303fdn__v06",
+  "products": [
+   "HP LaserJet MFP 3303fdn",
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 4103fdw",
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP",
+   "HP"
+  ],
+  "types": [
+   "PRINTER",
+   "PRINTER"
+  ],
+  "prices": [
+   "45.000 Mts",
+   "47.000 Mts"
+  ],
+  "group_size": 2
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__v01.png",
+  "name": "hp-laserjet-179fnw__v01",
+  "products": [
+   "HP LaserJet 179fnw"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__v02.png",
+  "name": "hp-laserjet-179fnw__v02",
+  "products": [
+   "HP LaserJet 179fnw"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__v03.png",
+  "name": "hp-laserjet-179fnw__v03",
+  "products": [
+   "HP LaserJet 179fnw"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__v04.png",
+  "name": "hp-laserjet-179fnw__v04",
+  "products": [
+   "HP LaserJet 179fnw"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__v05.png",
+  "name": "hp-laserjet-179fnw__v05",
+  "products": [
+   "HP LaserJet 179fnw"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-179fnw__v06.png",
+  "name": "hp-laserjet-179fnw__v06",
+  "products": [
+   "HP LaserJet 179fnw"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet 179fnw"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "38.500 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-mfp-4103fdw__v01.png",
+  "name": "hp-laserjet-mfp-4103fdw__v01",
+  "products": [
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 4103fdw"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "45.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-mfp-4103fdw__v02.png",
+  "name": "hp-laserjet-mfp-4103fdw__v02",
+  "products": [
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 4103fdw"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "45.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-mfp-4103fdw__v03.png",
+  "name": "hp-laserjet-mfp-4103fdw__v03",
+  "products": [
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 4103fdw"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "45.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-mfp-4103fdw__v04.png",
+  "name": "hp-laserjet-mfp-4103fdw__v04",
+  "products": [
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 4103fdw"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "45.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-mfp-4103fdw__v05.png",
+  "name": "hp-laserjet-mfp-4103fdw__v05",
+  "products": [
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 4103fdw"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "45.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-mfp-4103fdw__v06.png",
+  "name": "hp-laserjet-mfp-4103fdw__v06",
+  "products": [
+   "HP LaserJet MFP 4103fdw"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 4103fdw"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "45.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-mfp-3303fdn__v01.png",
+  "name": "hp-laserjet-mfp-3303fdn__v01",
+  "products": [
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "47.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-mfp-3303fdn__v02.png",
+  "name": "hp-laserjet-mfp-3303fdn__v02",
+  "products": [
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "47.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-mfp-3303fdn__v03.png",
+  "name": "hp-laserjet-mfp-3303fdn__v03",
+  "products": [
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "47.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-mfp-3303fdn__v04.png",
+  "name": "hp-laserjet-mfp-3303fdn__v04",
+  "products": [
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "single_hero",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "47.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-mfp-3303fdn__v05.png",
+  "name": "hp-laserjet-mfp-3303fdn__v05",
+  "products": [
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "single_hero+band",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "47.000 Mts"
+  ],
+  "group_size": 1
+ },
+ {
+  "file": "files/hp-laserjet-mfp-3303fdn__v06.png",
+  "name": "hp-laserjet-mfp-3303fdn__v06",
+  "products": [
+   "HP LaserJet MFP 3303fdn"
+  ],
+  "layout": "showcase",
+  "width": 1080,
+  "height": 1080,
+  "format": "Static",
+  "refs": [
+   "LaserJet MFP 3303fdn"
+  ],
+  "brands": [
+   "HP"
+  ],
+  "types": [
+   "PRINTER"
+  ],
+  "prices": [
+   "47.000 Mts"
+  ],
+  "group_size": 1
+ }
+]
